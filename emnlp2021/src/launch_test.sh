@@ -4,5 +4,6 @@ python pb_sentence_entropy.py \
     --model_name "gpt2" \
     --right_context 4 \
     --max_seq_len 64 \
+    --add_speaker_ids \
     --per_gpu_batch_size 1 \
-    --seed 7777
+    --seed 7777 

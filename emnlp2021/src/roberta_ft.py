@@ -20,7 +20,7 @@ tokenizer = AutoTokenizer.from_pretrained("roberta-base")
 model = AutoModelForMaskedLM.from_pretrained("roberta-base")
 
 def tokenize_function(examples):
-    return tokenizer(examples["text"], truncation=True, padding="max_length", max_length=512)
+    return tokenizer(examples["text"], truncation=True, padding="max_length", max_length=256)
 
 tokenized_datasets = dataset_dict.map(tokenize_function, batched=True, remove_columns=["text"])
 
@@ -29,8 +29,8 @@ training_args = TrainingArguments(
     output_dir="./roberta-pbft",
     overwrite_output_dir=True,
     num_train_epochs=30,
-    per_device_train_batch_size=32,
-    per_device_eval_batch_size=32,
+    per_device_train_batch_size=16,
+    per_device_eval_batch_size=16,
     eval_steps=400,
     save_steps=800,
     warmup_steps=500,

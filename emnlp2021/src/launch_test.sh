@@ -1,8 +1,7 @@
 python3 pbft_scores.py \
-    --data_path ../data/true/pb_gpt2-ft.csv \
+    --data_path <empdialpath> \
     --out_path ./launch_test_output \
     --model_name "roberta" \
-    --model_path ./roberta-pbft/checkpoint-800 \
     --right_context 4 \
     --max_seq_len 64 \
     --add_speaker_ids \

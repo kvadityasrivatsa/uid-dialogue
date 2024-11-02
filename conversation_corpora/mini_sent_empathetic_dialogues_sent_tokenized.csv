@@ -1,0 +1,1142 @@
+,dial_ix,emotion,utt_ix,utterance,sent_ix,sentence,speaker
+0,1,sentimental,1,I remember going to see the fireworks with my best friend. It was the first time we ever spent time alone together. Although there was a lot of people_comma_ we felt like the only people in the world.,1,I remember going to see the fireworks with my best friend.,0
+1,1,sentimental,1,I remember going to see the fireworks with my best friend. It was the first time we ever spent time alone together. Although there was a lot of people_comma_ we felt like the only people in the world.,2,It was the first time we ever spent time alone together.,0
+2,1,sentimental,1,I remember going to see the fireworks with my best friend. It was the first time we ever spent time alone together. Although there was a lot of people_comma_ we felt like the only people in the world.,3,Although there was a lot of people_comma_ we felt like the only people in the world.,0
+3,1,sentimental,2,Was this a friend you were in love with_comma_ or just a best friend?,1,Was this a friend you were in love with_comma_ or just a best friend?,1
+4,1,sentimental,3,This was a best friend. I miss her.,1,This was a best friend.,0
+5,1,sentimental,3,This was a best friend. I miss her.,2,I miss her.,0
+6,1,sentimental,4,Where has she gone?,1,Where has she gone?,1
+7,1,sentimental,5,We no longer talk.,1,We no longer talk.,0
+8,1,sentimental,6,Oh was this something that happened because of an argument?,1,Oh was this something that happened because of an argument?,1
+9,2,afraid,1,it feels like hitting to blank wall when i see the darkness,1,it feels like hitting to blank wall when i see the darkness,0
+10,2,afraid,2,Oh ya? I don't really see how,1,Oh ya?,1
+11,2,afraid,2,Oh ya? I don't really see how,2,I don't really see how,1
+12,2,afraid,3,dont you feel so.. its a wonder,1,dont you feel so.. its a wonder,0
+13,2,afraid,4,I do actually hit blank walls a lot of times but i get by,1,I do actually hit blank walls a lot of times but i get by,1
+14,2,afraid,5,i virtually thought so.. and i used to get sweatings,1,i virtually thought so.. and i used to get sweatings,0
+15,2,afraid,6,Wait what are sweatings,1,Wait what are sweatings,1
+16,3,proud,1,Hi how are you doing today,1,Hi how are you doing today,0
+17,3,proud,2,doing good.. how about you,1,doing good.. how about you,1
+18,3,proud,3,Im good_comma_ trying to understand how someone can feel like hitting a blank wall when they see the darkness,1,Im good_comma_ trying to understand how someone can feel like hitting a blank wall when they see the darkness,0
+19,3,proud,4,it's quite strange that you didnt imagine it,1,it's quite strange that you didnt imagine it,1
+20,3,proud,5,i dont imagine feeling a lot_comma_ maybe your on to something,1,i dont imagine feeling a lot_comma_ maybe your on to something,0
+21,4,faithful,1,I have never cheated on my wife.,1,I have never cheated on my wife.,0
+22,4,faithful,2,And thats something you should never do_comma_ good on you.,1,And thats something you should never do_comma_ good on you.,1
+23,4,faithful,3,Yea it hasn't been easy but I am proud I haven't,1,Yea it hasn't been easy but I am proud I haven't,0
+24,4,faithful,4,What do you mean it hasn't been easy? How close have you come to cheating?,1,What do you mean it hasn't been easy?,1
+25,4,faithful,4,What do you mean it hasn't been easy? How close have you come to cheating?,2,How close have you come to cheating?,1
+26,5,terrified,1,Job interviews always make me sweat bullets_comma_ makes me uncomfortable in general to be looked at under a microscope like that.,1,Job interviews always make me sweat bullets_comma_ makes me uncomfortable in general to be looked at under a microscope like that.,0
+27,5,terrified,2,Don't be nervous. Just be prepared.,1,Don't be nervous.,1
+28,5,terrified,2,Don't be nervous. Just be prepared.,2,Just be prepared.,1
+29,5,terrified,3,I feel like getting prepared and then having a curve ball thrown at you throws you off.,1,I feel like getting prepared and then having a curve ball thrown at you throws you off.,0
+30,5,terrified,4,Yes but if you stay calm it will be ok.,1,Yes but if you stay calm it will be ok.,1
+31,5,terrified,5,It's hard to stay clam. How do you do it?,1,It's hard to stay clam.,0
+32,5,terrified,5,It's hard to stay clam. How do you do it?,2,How do you do it?,0
+33,6,joyful,1,Hi_comma_ this year_comma_ I was the first over 300 students at my enginering school,1,Hi_comma_ this year_comma_ I was the first over 300 students at my enginering school,0
+34,6,joyful,2,Sounds great! So what's your major?,1,Sounds great!,1
+35,6,joyful,2,Sounds great! So what's your major?,2,So what's your major?,1
+36,6,joyful,3,It is computer science. I am very happy of this achievement and my family is very proud.,1,It is computer science.,0
+37,6,joyful,3,It is computer science. I am very happy of this achievement and my family is very proud.,2,I am very happy of this achievement and my family is very proud.,0
+38,6,joyful,4,Well pleased. You should be having brains_comma_man!That's a tough course_comma_i hear.,1,Well pleased.,1
+39,6,joyful,4,Well pleased. You should be having brains_comma_man!That's a tough course_comma_i hear.,2,You should be having brains_comma_man!That's a tough course_comma_i hear.,1
+40,7,angry,1,I lost my job last year and got really angry.,1,I lost my job last year and got really angry.,0
+41,7,angry,2,I am sorry to hear that. Did it happen out of the blue?,1,I am sorry to hear that.,1
+42,7,angry,2,I am sorry to hear that. Did it happen out of the blue?,2,Did it happen out of the blue?,1
+43,7,angry,3,Yes_comma_ it was a complete surprise.,1,Yes_comma_ it was a complete surprise.,0
+44,7,angry,4,I am sorry to hear that. I hope it turned out to be a blessing in decise.,1,I am sorry to hear that.,1
+45,7,angry,4,I am sorry to hear that. I hope it turned out to be a blessing in decise.,2,I hope it turned out to be a blessing in decise.,1
+46,8,sad,1,During christmas a few years ago_comma_ I did not get any presents.,1,During christmas a few years ago_comma_ I did not get any presents.,0
+47,8,sad,2,Wow_comma_ that must be terrible_comma_ I cannot imagine_comma_ I lvoe christmas,1,Wow_comma_ that must be terrible_comma_ I cannot imagine_comma_ I lvoe christmas,1
+48,8,sad,3,Since that day christmas has not been a good time for me. As I have no family_comma_ christmas is always the worst.,1,Since that day christmas has not been a good time for me.,0
+49,8,sad,3,Since that day christmas has not been a good time for me. As I have no family_comma_ christmas is always the worst.,2,As I have no family_comma_ christmas is always the worst.,0
+50,8,sad,4,Wow_comma_ I am sorry to hear that_comma_ I wish I could make it a better holiday for you!,1,Wow_comma_ I am sorry to hear that_comma_ I wish I could make it a better holiday for you!,1
+51,8,sad,5,Some days are just days that you never forget. I wish you could as well.,1,Some days are just days that you never forget.,0
+52,8,sad,5,Some days are just days that you never forget. I wish you could as well.,2,I wish you could as well.,0
+53,9,jealous,1,My coworker is allowed to work remotely_comma_ but I am not...,1,My coworker is allowed to work remotely_comma_ but I am not...,0
+54,9,jealous,2,I work remotely_comma_ I wish that you could do something like that as well.,1,I work remotely_comma_ I wish that you could do something like that as well.,1
+55,9,jealous,3,I do too_comma_ it is unfortnuate because_comma_ unbiased_comma_ I am our best performer_comma_ so it is curious,1,I do too_comma_ it is unfortnuate because_comma_ unbiased_comma_ I am our best performer_comma_ so it is curious,0
+56,9,jealous,4,Sometimes in life_comma_ it is not about performance. Some people just get a shiner spoon.,1,Sometimes in life_comma_ it is not about performance.,1
+57,9,jealous,4,Sometimes in life_comma_ it is not about performance. Some people just get a shiner spoon.,2,Some people just get a shiner spoon.,1
+58,10,terrified,1,The other night I was alone and heard a nose coming from the kitchen... it was creepy.,1,The other night I was alone and heard a nose coming from the kitchen... it was creepy.,0
+59,11,grateful,1,Hi_comma_ I went to a park and I set on a bench. I didn't notice that my wallet felt. A man came to me from behind giving me back my wallet.,1,Hi_comma_ I went to a park and I set on a bench.,0
+60,11,grateful,1,Hi_comma_ I went to a park and I set on a bench. I didn't notice that my wallet felt. A man came to me from behind giving me back my wallet.,2,I didn't notice that my wallet felt.,0
+61,11,grateful,1,Hi_comma_ I went to a park and I set on a bench. I didn't notice that my wallet felt. A man came to me from behind giving me back my wallet.,3,A man came to me from behind giving me back my wallet.,0
+62,11,grateful,2,Thats a sweet man_comma_ I hope you acknowledged his kind gesture.,1,Thats a sweet man_comma_ I hope you acknowledged his kind gesture.,1
+63,11,grateful,3,Yes_comma_ I did. I was so grateful because I have a lot of money in my wallet.,1,Yes_comma_ I did.,0
+64,11,grateful,3,Yes_comma_ I did. I was so grateful because I have a lot of money in my wallet.,2,I was so grateful because I have a lot of money in my wallet.,0
+65,11,grateful,4,Their aren't that many well rounded people in the world these days so when you see one you should always show appreciation!,1,Their aren't that many well rounded people in the world these days so when you see one you should always show appreciation!,1
+66,12,sad,1,People get rejected all the time but it shouldn't be an excuse to let it dissuade you from reaching your goals.,1,People get rejected all the time but it shouldn't be an excuse to let it dissuade you from reaching your goals.,0
+67,12,sad,2,What happened?,1,What happened?,1
+68,12,sad,3,Got rejected from a place I wanted to work_comma_ not once but three times,1,Got rejected from a place I wanted to work_comma_ not once but three times,0
+69,12,sad,4,I am sorry to hear that. I hope you find a better opportunity. Did you know why they rejected you?,1,I am sorry to hear that.,1
+70,12,sad,4,I am sorry to hear that. I hope you find a better opportunity. Did you know why they rejected you?,2,I hope you find a better opportunity.,1
+71,12,sad,4,I am sorry to hear that. I hope you find a better opportunity. Did you know why they rejected you?,3,Did you know why they rejected you?,1
+72,12,sad,5,Thanks_comma_ they gave me the same generic lines you always hear.,1,Thanks_comma_ they gave me the same generic lines you always hear.,0
+73,13,prepared,1,I had to board my entire house when the hurricane was coming.,1,I had to board my entire house when the hurricane was coming.,0
+74,13,prepared,2,WOW! Did it do any damage?,1,WOW!,1
+75,13,prepared,2,WOW! Did it do any damage?,2,Did it do any damage?,1
+76,13,prepared,3,No luckily the house was ok.,1,No luckily the house was ok.,0
+77,13,prepared,4,That is great. I would have been scared to death. Was it recent?,1,That is great.,1
+78,13,prepared,4,That is great. I would have been scared to death. Was it recent?,2,I would have been scared to death.,1
+79,13,prepared,4,That is great. I would have been scared to death. Was it recent?,3,Was it recent?,1
+80,14,embarrassed,1,Once when I was in preschool_comma_ my pants fell down in front of the whole class_comma_ I was so embarassed,1,Once when I was in preschool_comma_ my pants fell down in front of the whole class_comma_ I was so embarassed,0
+81,14,embarrassed,2,haha yeah that would be very bad !,1,haha yeah that would be very bad !,1
+82,14,embarrassed,3,It was_comma_ I almost cried cause everyone was laughing at me,1,It was_comma_ I almost cried cause everyone was laughing at me,0
+83,14,embarrassed,4,Oh no _comma_ sorry to hear that happened to you :(,1,Oh no _comma_ sorry to hear that happened to you :(,1
+84,15,angry,1,I never thought things would go like this.,1,I never thought things would go like this.,0
+85,15,angry,2,What happened for you to feel that way?,1,What happened for you to feel that way?,1
+86,15,angry,3,I was at the beach and a hurricane changed track and was coming straight at us. My boyfriend didnt want to leave because we were on the second day only of our vacation.,1,I was at the beach and a hurricane changed track and was coming straight at us.,0
+87,15,angry,3,I was at the beach and a hurricane changed track and was coming straight at us. My boyfriend didnt want to leave because we were on the second day only of our vacation.,2,My boyfriend didnt want to leave because we were on the second day only of our vacation.,0
+88,15,angry,4,Oh that does sound terrible. What did you guys decide to do?,1,Oh that does sound terrible.,1
+89,15,angry,4,Oh that does sound terrible. What did you guys decide to do?,2,What did you guys decide to do?,1
+90,15,angry,5,Well we ended up leaving I was too scared to stay and was really upset.,1,Well we ended up leaving I was too scared to stay and was really upset.,0
+91,16,afraid,1,What a difference a year makes. Last year one evening my family was at home when a tree fell on the house and broke through the ceiling.,1,What a difference a year makes.,0
+92,16,afraid,1,What a difference a year makes. Last year one evening my family was at home when a tree fell on the house and broke through the ceiling.,2,Last year one evening my family was at home when a tree fell on the house and broke through the ceiling.,0
+93,16,afraid,2,That's very scary. I hope no one got hurt.,1,That's very scary.,1
+94,16,afraid,2,That's very scary. I hope no one got hurt.,2,I hope no one got hurt.,1
+95,16,afraid,3,We were OK_comma_ though the tree broke through only a few feet away from my daughter.,1,We were OK_comma_ though the tree broke through only a few feet away from my daughter.,0
+96,16,afraid,4,So happy everyone was fine!! Everything else can be fixed.,1,So happy everyone was fine!!,1
+97,16,afraid,4,So happy everyone was fine!! Everything else can be fixed.,2,Everything else can be fixed.,1
+98,16,afraid,5,Indeed. We were out of the house for five months while repairs were being done_comma_ but now the house is better than ever.,1,Indeed.,0
+99,16,afraid,5,Indeed. We were out of the house for five months while repairs were being done_comma_ but now the house is better than ever.,2,We were out of the house for five months while repairs were being done_comma_ but now the house is better than ever.,0
+100,16,afraid,6,So good to hear. Might want to trim some trees lol,1,So good to hear.,1
+101,16,afraid,6,So good to hear. Might want to trim some trees lol,2,Might want to trim some trees lol,1
+102,17,excited,1,So last week we were watching the world cup_comma_ and lo and behold_comma_ Croatia beat the host country_comma_ Russia,1,So last week we were watching the world cup_comma_ and lo and behold_comma_ Croatia beat the host country_comma_ Russia,0
+103,17,excited,2,I saw that game. They won on penalty kicks!,1,I saw that game.,1
+104,17,excited,2,I saw that game. They won on penalty kicks!,2,They won on penalty kicks!,1
+105,17,excited,3,Yes! Both countries were not about to let each other win,1,Yes!,0
+106,17,excited,3,Yes! Both countries were not about to let each other win,2,Both countries were not about to let each other win,0
+107,17,excited,4,It was very tense. The other game with England and Sweden was not nearly as nerve-wracking.,1,It was very tense.,1
+108,17,excited,4,It was very tense. The other game with England and Sweden was not nearly as nerve-wracking.,2,The other game with England and Sweden was not nearly as nerve-wracking.,1
+109,17,excited,5,You're right. I prefer nerve-wrecking matches. When both teams are great_comma_ the tension really builds.,1,You're right.,0
+110,17,excited,5,You're right. I prefer nerve-wrecking matches. When both teams are great_comma_ the tension really builds.,2,I prefer nerve-wrecking matches.,0
+111,17,excited,5,You're right. I prefer nerve-wrecking matches. When both teams are great_comma_ the tension really builds.,3,When both teams are great_comma_ the tension really builds.,0
+112,18,annoyed,1,Hi_comma_ I have a co work always asking me questions about how to use her mobile. It is almost always the same questions.,1,Hi_comma_ I have a co work always asking me questions about how to use her mobile.,0
+113,18,annoyed,1,Hi_comma_ I have a co work always asking me questions about how to use her mobile. It is almost always the same questions.,2,It is almost always the same questions.,0
+114,18,annoyed,2,It must be so frustrating to have to answer the same thing over and over. Is she older?,1,It must be so frustrating to have to answer the same thing over and over.,1
+115,18,annoyed,2,It must be so frustrating to have to answer the same thing over and over. Is she older?,2,Is she older?,1
+116,18,annoyed,3,Yes_comma_ she is. She is telling that all the cell phone that she has been using have deleting her contacts.,1,Yes_comma_ she is.,0
+117,18,annoyed,3,Yes_comma_ she is. She is telling that all the cell phone that she has been using have deleting her contacts.,2,She is telling that all the cell phone that she has been using have deleting her contacts.,0
+118,18,annoyed,4,My aunt does the same thing! I think what she is doing is accidentally deleting texts_comma_ and she doesn't understand how to check her contacts list. What do you think is happening with your co-worker?,1,My aunt does the same thing!,1
+119,18,annoyed,4,My aunt does the same thing! I think what she is doing is accidentally deleting texts_comma_ and she doesn't understand how to check her contacts list. What do you think is happening with your co-worker?,2,I think what she is doing is accidentally deleting texts_comma_ and she doesn't understand how to check her contacts list.,1
+120,18,annoyed,4,My aunt does the same thing! I think what she is doing is accidentally deleting texts_comma_ and she doesn't understand how to check her contacts list. What do you think is happening with your co-worker?,3,What do you think is happening with your co-worker?,1
+121,19,angry,1,I worked on my truck all weekend. Spent $215 on parts and a special tool. Still did not fix the miss in the engine.,1,I worked on my truck all weekend.,0
+122,19,angry,1,I worked on my truck all weekend. Spent $215 on parts and a special tool. Still did not fix the miss in the engine.,2,Spent $215 on parts and a special tool.,0
+123,19,angry,1,I worked on my truck all weekend. Spent $215 on parts and a special tool. Still did not fix the miss in the engine.,3,Still did not fix the miss in the engine.,0
+124,19,angry,2,What is the problem with the engine?,1,What is the problem with the engine?,1
+125,19,angry,3,It has a miss. Sometimes when you are driving it sputters and jerks and barely has any power. Other times it drives just fine. I have replaced so many things on it and nothing makes a difference for very long.,1,It has a miss.,0
+126,19,angry,3,It has a miss. Sometimes when you are driving it sputters and jerks and barely has any power. Other times it drives just fine. I have replaced so many things on it and nothing makes a difference for very long.,2,Sometimes when you are driving it sputters and jerks and barely has any power.,0
+127,19,angry,3,It has a miss. Sometimes when you are driving it sputters and jerks and barely has any power. Other times it drives just fine. I have replaced so many things on it and nothing makes a difference for very long.,3,Other times it drives just fine.,0
+128,19,angry,3,It has a miss. Sometimes when you are driving it sputters and jerks and barely has any power. Other times it drives just fine. I have replaced so many things on it and nothing makes a difference for very long.,4,I have replaced so many things on it and nothing makes a difference for very long.,0
+129,19,angry,4,Sorry to hear that. I hope you find what is the problem with the engine.,1,Sorry to hear that.,1
+130,19,angry,4,Sorry to hear that. I hope you find what is the problem with the engine.,2,I hope you find what is the problem with the engine.,1
+131,20,lonely,1,I found myself divorced a few years ago_comma_ and for the first time in my life_comma_ I was living alone.,1,I found myself divorced a few years ago_comma_ and for the first time in my life_comma_ I was living alone.,0
+132,20,lonely,2,I felt sad and depressed due to my insecurities and felt rejected from society,1,I felt sad and depressed due to my insecurities and felt rejected from society,1
+133,20,lonely,3,Yes_comma_ I felt that way for a while. But then I grew used to the solitude.,1,Yes_comma_ I felt that way for a while.,0
+134,20,lonely,3,Yes_comma_ I felt that way for a while. But then I grew used to the solitude.,2,But then I grew used to the solitude.,0
+135,20,lonely,4,The problem is I don't think you can grew out of my specific insecurity.,1,The problem is I don't think you can grew out of my specific insecurity.,1
+136,21,proud,1,I felt proud when I had accomplished a dream that I wanted to do for a long time. It was absailing!!,1,I felt proud when I had accomplished a dream that I wanted to do for a long time.,0
+137,21,proud,1,I felt proud when I had accomplished a dream that I wanted to do for a long time. It was absailing!!,2,It was absailing!,0
+138,21,proud,1,I felt proud when I had accomplished a dream that I wanted to do for a long time. It was absailing!!,3,!,0
+139,21,proud,2,I'm not familiar with abseiling_comma_ but I'm glad that you felt good about it.,1,I'm not familiar with abseiling_comma_ but I'm glad that you felt good about it.,1
+140,21,proud,3,absailing_comma_ its when you rappeling down a building. What have you down that amazing?,1,absailing_comma_ its when you rappeling down a building.,0
+141,21,proud,3,absailing_comma_ its when you rappeling down a building. What have you down that amazing?,2,What have you down that amazing?,0
+142,21,proud,4,Oh_comma_ I see. No_comma_ I've never done that.,1,Oh_comma_ I see.,1
+143,21,proud,4,Oh_comma_ I see. No_comma_ I've never done that.,2,No_comma_ I've never done that.,1
+144,21,proud,5,so what have you done?,1,so what have you done?,0
+145,22,sentimental,1,Hello,1,Hello,0
+146,22,sentimental,2,Hello! I am in such a good mood since I got my new home.,1,Hello!,1
+147,22,sentimental,2,Hello! I am in such a good mood since I got my new home.,2,I am in such a good mood since I got my new home.,1
+148,22,sentimental,3,Funny - we just built a house where we used to go camping when I was a kid.,1,Funny - we just built a house where we used to go camping when I was a kid.,0
+149,22,sentimental,4,I have a ton of backyard space that we have plans for. Camping would be a fun one.,1,I have a ton of backyard space that we have plans for.,1
+150,22,sentimental,4,I have a ton of backyard space that we have plans for. Camping would be a fun one.,2,Camping would be a fun one.,1
+151,22,sentimental,5,That's wonderful. Do you have any plans to have a fire?,1,That's wonderful.,0
+152,22,sentimental,5,That's wonderful. Do you have any plans to have a fire?,2,Do you have any plans to have a fire?,0
+153,22,sentimental,6,I want to look in to getting a nice fire pit for the house.,1,I want to look in to getting a nice fire pit for the house.,1
+154,23,joyful,1,Planning out my new home has turned out to be a blast!,1,Planning out my new home has turned out to be a blast!,0
+155,23,joyful,2,What kind of house are you building?,1,What kind of house are you building?,1
+156,23,joyful,3,I just moved in so it is already built. Just working on planning out decorating and appliances and such.,1,I just moved in so it is already built.,0
+157,23,joyful,3,I just moved in so it is already built. Just working on planning out decorating and appliances and such.,2,Just working on planning out decorating and appliances and such.,0
+158,23,joyful,4,That sounds great. What are you most excited for?,1,That sounds great.,1
+159,23,joyful,4,That sounds great. What are you most excited for?,2,What are you most excited for?,1
+160,23,joyful,5,I think I am most excited for all the space I have. I can have friends over and not feel cramped.,1,I think I am most excited for all the space I have.,0
+161,23,joyful,5,I think I am most excited for all the space I have. I can have friends over and not feel cramped.,2,I can have friends over and not feel cramped.,0
+162,24,ashamed,1,I never took a drink before and my friends were all over me to take a drink,1,I never took a drink before and my friends were all over me to take a drink,0
+163,24,ashamed,2,Why did you feel guilty for taking a drink?,1,Why did you feel guilty for taking a drink?,1
+164,24,ashamed,3,It was not my thing and the moment I took I did wrong. Later in the night I started feeling bad.,1,It was not my thing and the moment I took I did wrong.,0
+165,24,ashamed,3,It was not my thing and the moment I took I did wrong. Later in the night I started feeling bad.,2,Later in the night I started feeling bad.,0
+166,24,ashamed,4,I can understand. I am not a big drinker myself_comma_ but I wouldn't feel guilty about it.  Not unless you promised someone you wouldn't drink.,1,I can understand.,1
+167,24,ashamed,4,I can understand. I am not a big drinker myself_comma_ but I wouldn't feel guilty about it.  Not unless you promised someone you wouldn't drink.,2,I am not a big drinker myself_comma_ but I wouldn't feel guilty about it.,1
+168,24,ashamed,4,I can understand. I am not a big drinker myself_comma_ but I wouldn't feel guilty about it.  Not unless you promised someone you wouldn't drink.,3,Not unless you promised someone you wouldn't drink.,1
+169,24,ashamed,5,Yeah I did to my mum and dad...When I started vomiting I mess my dress and mum knew.,1,Yeah I did to my mum and dad...When I started vomiting I mess my dress and mum knew.,0
+170,24,ashamed,6,Oh yea I can understand that then... Well I am sure you learned your lesson_comma_ right?,1,Oh yea I can understand that then... Well I am sure you learned your lesson_comma_ right?,1
+171,24,ashamed,7,Yeah bad...anyway bye...Thanks for the chat.,1,Yeah bad...anyway bye...Thanks for the chat.,0
+172,25,guilty,1,I was only married for 4 weeks when I learned my husband was having an affair and ongoing after the wedding. I got him back by sleeping with a close family friend. I felt guilty and ashamed because it was out of character.,1,I was only married for 4 weeks when I learned my husband was having an affair and ongoing after the wedding.,0
+173,25,guilty,1,I was only married for 4 weeks when I learned my husband was having an affair and ongoing after the wedding. I got him back by sleeping with a close family friend. I felt guilty and ashamed because it was out of character.,2,I got him back by sleeping with a close family friend.,0
+174,25,guilty,1,I was only married for 4 weeks when I learned my husband was having an affair and ongoing after the wedding. I got him back by sleeping with a close family friend. I felt guilty and ashamed because it was out of character.,3,I felt guilty and ashamed because it was out of character.,0
+175,25,guilty,2,Yeah that sounds really sad. I am sorry for what you went through.,1,Yeah that sounds really sad.,1
+176,25,guilty,2,Yeah that sounds really sad. I am sorry for what you went through.,2,I am sorry for what you went through.,1
+177,25,guilty,3,Well I choose to stay and work it out_comma_ but I never told him. It has been 3 years.,1,Well I choose to stay and work it out_comma_ but I never told him.,0
+178,25,guilty,3,Well I choose to stay and work it out_comma_ but I never told him. It has been 3 years.,2,It has been 3 years.,0
+179,25,guilty,4,Yeah maybe that was a good decision that you made.,1,Yeah maybe that was a good decision that you made.,1
+180,25,guilty,5,Well I thought I would be feel better but because I am not the cheating kind_comma_ I still feel guilty.,1,Well I thought I would be feel better but because I am not the cheating kind_comma_ I still feel guilty.,0
+181,26,surprised,1,When I was working my first job_comma_ my parents picked me up in my new car_comma_ I was very surprised_comma_ i thought I was gonna have to buy my own car,1,When I was working my first job_comma_ my parents picked me up in my new car_comma_ I was very surprised_comma_ i thought I was gonna have to buy my own car,0
+182,26,surprised,2,wow_comma_ that was so awesome of them!,1,wow_comma_ that was so awesome of them!,1
+183,26,surprised,3,Yeah it really was_comma_ I am still very thankful of them,1,Yeah it really was_comma_ I am still very thankful of them,0
+184,26,surprised,4,I had to buy my first car and it wasn't until I was 21 that I could afford it.,1,I had to buy my first car and it wasn't until I was 21 that I could afford it.,1
+185,27,nostalgic,1,I'm nearing 40 and I find myself thinking a lot about my teen years and early twenties. The friends I had then and the fun we had.,1,I'm nearing 40 and I find myself thinking a lot about my teen years and early twenties.,0
+186,27,nostalgic,1,I'm nearing 40 and I find myself thinking a lot about my teen years and early twenties. The friends I had then and the fun we had.,2,The friends I had then and the fun we had.,0
+187,27,nostalgic,2,That is where I am still at_comma_ I am scared I will have regrets when I get older,1,That is where I am still at_comma_ I am scared I will have regrets when I get older,1
+188,27,nostalgic,3,I don',1,I don',0
+189,27,nostalgic,4,That is good_comma_ I am glad you have no regrets!,1,That is good_comma_ I am glad you have no regrets!,1
+190,28,confident,1,A year ago I spent a lot of time doing research for an article. Then a top journal accepted it for publication.,1,A year ago I spent a lot of time doing research for an article.,0
+191,28,confident,1,A year ago I spent a lot of time doing research for an article. Then a top journal accepted it for publication.,2,Then a top journal accepted it for publication.,0
+192,28,confident,2,what was the topic,1,what was the topic,1
+193,28,confident,3,It was about the medieval poet Geoffrey Chaucer.,1,It was about the medieval poet Geoffrey Chaucer.,0
+194,28,confident,4,I'm not familiar with him where is he from,1,I'm not familiar with him where is he from,1
+195,28,confident,5,He was an English poet in the fourteenth century_comma_,1,He was an English poet in the fourteenth century_comma_,0
+196,28,confident,6,and how did you learn about him,1,and how did you learn about him,1
+197,29,annoyed,1,Do you have any irritating coworkers?,1,Do you have any irritating coworkers?,0
+198,29,annoyed,2,Yes_comma_ I think that everyone does! What about you?,1,Yes_comma_ I think that everyone does!,1
+199,29,annoyed,2,Yes_comma_ I think that everyone does! What about you?,2,What about you?,1
+200,29,annoyed,3,yes a few that drive me nuts. the janitor is the worst,1,yes a few that drive me nuts.,0
+201,29,annoyed,3,yes a few that drive me nuts. the janitor is the worst,2,the janitor is the worst,0
+202,29,annoyed,4,That's too bad. Our janitor is very friendly.,1,That's too bad.,1
+203,29,annoyed,4,That's too bad. Our janitor is very friendly.,2,Our janitor is very friendly.,1
+204,29,annoyed,5,she comes in my office smelling like smoke trying to chat it up rather than do her job.,1,she comes in my office smelling like smoke trying to chat it up rather than do her job.,0
+205,30,guilty,1,Hi_comma_ I broke a statuette offered by grandmother to my sister. It was a very important object for my sister.,1,Hi_comma_ I broke a statuette offered by grandmother to my sister.,0
+206,30,guilty,1,Hi_comma_ I broke a statuette offered by grandmother to my sister. It was a very important object for my sister.,2,It was a very important object for my sister.,0
+207,30,guilty,2,Is it not better you replace it with same type of statuette_comma_at a grocery store?,1,Is it not better you replace it with same type of statuette_comma_at a grocery store?,1
+208,30,guilty,3,No_comma_ it is not possible. It is old statuette given by the mother of my grandmother.,1,No_comma_ it is not possible.,0
+209,30,guilty,3,No_comma_ it is not possible. It is old statuette given by the mother of my grandmother.,2,It is old statuette given by the mother of my grandmother.,0
+210,30,guilty,4,The mother of your grand mother _comma_that means your great grand mother ! Well you can search through her archives,1,The mother of your grand mother _comma_that means your great grand mother !,1
+211,30,guilty,4,The mother of your grand mother _comma_that means your great grand mother ! Well you can search through her archives,2,Well you can search through her archives,1
+212,31,furious,1,I could not tolerate the waiters insensitivity_comma_that's poor service indeed!,1,I could not tolerate the waiters insensitivity_comma_that's poor service indeed!,0
+213,31,furious,2,What happened?,1,What happened?,1
+214,31,furious,3,Imagine _comma_I requested a French fries _comma_but was served burger instead!,1,Imagine _comma_I requested a French fries _comma_but was served burger instead!,0
+215,31,furious,4,It is very bad service. What did you do? Did you complain to the manager?,1,It is very bad service.,1
+216,31,furious,4,It is very bad service. What did you do? Did you complain to the manager?,2,What did you do?,1
+217,31,furious,4,It is very bad service. What did you do? Did you complain to the manager?,3,Did you complain to the manager?,1
+218,32,guilty,1,I left his house_comma_ filled up with his food and disgust. I left his fridge completely empty and feel guilth,1,I left his house_comma_ filled up with his food and disgust.,0
+219,32,guilty,1,I left his house_comma_ filled up with his food and disgust. I left his fridge completely empty and feel guilth,2,I left his fridge completely empty and feel guilth,0
+220,32,guilty,2,That would be hard to do and take courage.,1,That would be hard to do and take courage.,1
+221,32,guilty,3,Thanks man_comma_ at the heat of the moment I ate due to my flashbacks I was traumised.,1,Thanks man_comma_ at the heat of the moment I ate due to my flashbacks I was traumised.,0
+222,32,guilty,4,I could see that happening but sounds like you were super brave.,1,I could see that happening but sounds like you were super brave.,1
+223,33,terrified,1,Hi I was recently on vacation and frightened half to death.,1,Hi I was recently on vacation and frightened half to death.,0
+224,33,terrified,2,Oh_comma_ my_comma_ what happened?,1,Oh_comma_ my_comma_ what happened?,1
+225,33,terrified,3,I was eating some chips on the balcony. I dropped them and then was swarmed by seagulls.,1,I was eating some chips on the balcony.,0
+226,33,terrified,3,I was eating some chips on the balcony. I dropped them and then was swarmed by seagulls.,2,I dropped them and then was swarmed by seagulls.,0
+227,33,terrified,4,I live near the ocean_comma_ so I do understand how this can be. I hope you ran_comma_ very quickly.,1,I live near the ocean_comma_ so I do understand how this can be.,1
+228,33,terrified,4,I live near the ocean_comma_ so I do understand how this can be. I hope you ran_comma_ very quickly.,2,I hope you ran_comma_ very quickly.,1
+229,33,terrified,5,I went inside. I donr know how dangerous they are but I didnt want to fall 7 stories.,1,I went inside.,0
+230,33,terrified,5,I went inside. I donr know how dangerous they are but I didnt want to fall 7 stories.,2,I donr know how dangerous they are but I didnt want to fall 7 stories.,0
+231,33,terrified,6,I heard a story of seagulls drowning a man to death.,1,I heard a story of seagulls drowning a man to death.,1
+232,34,furious,1,When i was younger_comma_ my mother would always take away my PC because I would always play video games on them.,1,When i was younger_comma_ my mother would always take away my PC because I would always play video games on them.,0
+233,34,furious,2,I was the same way.,1,I was the same way.,1
+234,34,furious,3,Now that I am older though_comma_ my girlfriend tries to take away my Pc. Very rough days in my life.,1,Now that I am older though_comma_ my girlfriend tries to take away my Pc.,0
+235,34,furious,3,Now that I am older though_comma_ my girlfriend tries to take away my Pc. Very rough days in my life.,2,Very rough days in my life.,0
+236,34,furious,4,Lol. I take away my daughters now. I guess my mom passed the torch.,1,Lol.,1
+237,34,furious,4,Lol. I take away my daughters now. I guess my mom passed the torch.,2,I take away my daughters now.,1
+238,34,furious,4,Lol. I take away my daughters now. I guess my mom passed the torch.,3,I guess my mom passed the torch.,1
+239,34,furious,5,Stop doing that_comma_ it is very important to have a pc. The internet is the future and very many jobs are opening up online.,1,Stop doing that_comma_ it is very important to have a pc.,0
+240,34,furious,5,Stop doing that_comma_ it is very important to have a pc. The internet is the future and very many jobs are opening up online.,2,The internet is the future and very many jobs are opening up online.,0
+241,34,furious,6,She is 13 not at 3am,1,She is 13 not at 3am,1
+242,34,furious,7,I think at 3am the mind is truly it's sharpest and can make great content. I do understand the age thing though. Maybe slowly give her more time as she gets older. At 15 to 16 it gets hard to control all together.,1,I think at 3am the mind is truly it's sharpest and can make great content.,0
+243,34,furious,7,I think at 3am the mind is truly it's sharpest and can make great content. I do understand the age thing though. Maybe slowly give her more time as she gets older. At 15 to 16 it gets hard to control all together.,2,I do understand the age thing though.,0
+244,34,furious,7,I think at 3am the mind is truly it's sharpest and can make great content. I do understand the age thing though. Maybe slowly give her more time as she gets older. At 15 to 16 it gets hard to control all together.,3,Maybe slowly give her more time as she gets older.,0
+245,34,furious,7,I think at 3am the mind is truly it's sharpest and can make great content. I do understand the age thing though. Maybe slowly give her more time as she gets older. At 15 to 16 it gets hard to control all together.,4,At 15 to 16 it gets hard to control all together.,0
+246,35,disappointed,1,One of my friend didn't keep this promise he made to me. I was so angry to him.,1,One of my friend didn't keep this promise he made to me.,0
+247,35,disappointed,1,One of my friend didn't keep this promise he made to me. I was so angry to him.,2,I was so angry to him.,0
+248,35,disappointed,2,What promise didn't he keep?,1,What promise didn't he keep?,1
+249,35,disappointed,3,I was suppose to help me move from my apartment. He didn't come and turned off his cell phone.,1,I was suppose to help me move from my apartment.,0
+250,35,disappointed,3,I was suppose to help me move from my apartment. He didn't come and turned off his cell phone.,2,He didn't come and turned off his cell phone.,0
+251,35,disappointed,4,Wow that sounds like a terrible friend.  I hope he had a good reason for not showing up.,1,Wow that sounds like a terrible friend.,1
+252,35,disappointed,4,Wow that sounds like a terrible friend.  I hope he had a good reason for not showing up.,2,I hope he had a good reason for not showing up.,1
+253,36,faithful,1,There were times where I was being seduced by a coworker of mine as a married man.,1,There were times where I was being seduced by a coworker of mine as a married man.,0
+254,36,faithful,2,Wow. Did he have kids?,1,Wow.,1
+255,36,faithful,2,Wow. Did he have kids?,2,Did he have kids?,1
+256,36,faithful,3,I was the one who was being seduced as the married man.  Good thing I remained committed to my wife and did not cheat.,1,I was the one who was being seduced as the married man.,0
+257,36,faithful,3,I was the one who was being seduced as the married man.  Good thing I remained committed to my wife and did not cheat.,2,Good thing I remained committed to my wife and did not cheat.,0
+258,36,faithful,4,Ah ok. Good you stayed committed to your wife.,1,Ah ok. Good you stayed committed to your wife.,1
+259,37,caring,1,I am an English Tutor for Chinese students_comma_ when they struggle with a topic_comma_ I always take extra time to help them along and make sure they understand,1,I am an English Tutor for Chinese students_comma_ when they struggle with a topic_comma_ I always take extra time to help them along and make sure they understand,0
+260,37,caring,2,That is very inspiring_comma_ I'm glad you take the extra time. Do you like doing what you do?,1,That is very inspiring_comma_ I'm glad you take the extra time.,1
+261,37,caring,2,That is very inspiring_comma_ I'm glad you take the extra time. Do you like doing what you do?,2,Do you like doing what you do?,1
+262,37,caring,3,I like it very much_comma_ seeing a kid grasp a new concept and very quickly and finding effective ways to do it is a blast.,1,I like it very much_comma_ seeing a kid grasp a new concept and very quickly and finding effective ways to do it is a blast.,0
+263,37,caring,4,That is awesome_comma_ thanks for taking the time to help kids grasp a new language! You deserve to be appreciated_comma_ but I'm sure they appreciate you a lot.,1,That is awesome_comma_ thanks for taking the time to help kids grasp a new language!,1
+264,37,caring,4,That is awesome_comma_ thanks for taking the time to help kids grasp a new language! You deserve to be appreciated_comma_ but I'm sure they appreciate you a lot.,2,You deserve to be appreciated_comma_ but I'm sure they appreciate you a lot.,1
+265,38,sad,1,Have you ever had a pet that you had to put down? I was so heartbroken when my dog of 16 years had to be put down. this was years ago but it still makes me sad to this day.,1,Have you ever had a pet that you had to put down?,0
+266,38,sad,1,Have you ever had a pet that you had to put down? I was so heartbroken when my dog of 16 years had to be put down. this was years ago but it still makes me sad to this day.,2,I was so heartbroken when my dog of 16 years had to be put down.,0
+267,38,sad,1,Have you ever had a pet that you had to put down? I was so heartbroken when my dog of 16 years had to be put down. this was years ago but it still makes me sad to this day.,3,this was years ago but it still makes me sad to this day.,0
+268,38,sad,2,That is heartbreaking_comma_ it's always helped me to remember that no matter what happens_comma_ you have your memories with them.,1,That is heartbreaking_comma_ it's always helped me to remember that no matter what happens_comma_ you have your memories with them.,1
+269,38,sad,3,That is true_comma_ we got her when I was 3 years old so I kind of grew up with her_comma_ I'll never forget those memories.,1,That is true_comma_ we got her when I was 3 years old so I kind of grew up with her_comma_ I'll never forget those memories.,0
+270,38,sad,4,Absolutely_comma_ it's a chapter of your life and as long as you have those memories they live on through those memories.,1,Absolutely_comma_ it's a chapter of your life and as long as you have those memories they live on through those memories.,1
+271,39,disappointed,1,I drove to Dairy Queen but it was closed.,1,I drove to Dairy Queen but it was closed.,0
+272,39,disappointed,2,I'm sorry to hear that.  That must have been frustrating.,1,I'm sorry to hear that.,1
+273,39,disappointed,2,I'm sorry to hear that.  That must have been frustrating.,2,That must have been frustrating.,1
+274,39,disappointed,3,I just really wanted some ice cream! Now I know their hours_comma_ though.,1,I just really wanted some ice cream!,0
+275,39,disappointed,3,I just really wanted some ice cream! Now I know their hours_comma_ though.,2,Now I know their hours_comma_ though.,0
+276,39,disappointed,4,Hopefully you were able to get the ice cream that you wanted in the following days.,1,Hopefully you were able to get the ice cream that you wanted in the following days.,1
+277,40,grateful,1,One time I had a flat tire and my dad came to help me fix it.,1,One time I had a flat tire and my dad came to help me fix it.,0
+278,40,grateful,2,Oh no! Glad your dad was able to help. How did it happen?,1,Oh no!,1
+279,40,grateful,2,Oh no! Glad your dad was able to help. How did it happen?,2,Glad your dad was able to help.,1
+280,40,grateful,2,Oh no! Glad your dad was able to help. How did it happen?,3,How did it happen?,1
+281,40,grateful,3,I ran over a nail in the road.  Now I know not to drive near new houses.,1,I ran over a nail in the road.,0
+282,40,grateful,3,I ran over a nail in the road.  Now I know not to drive near new houses.,2,Now I know not to drive near new houses.,0
+283,40,grateful,4,That's some bad luck. I hope it wasn't too much of a hassle.,1,That's some bad luck.,1
+284,40,grateful,4,That's some bad luck. I hope it wasn't too much of a hassle.,2,I hope it wasn't too much of a hassle.,1
+285,41,sentimental,1,My kid's birthday are coming up again. It always makes me remember them as babies.,1,My kid's birthday are coming up again.,0
+286,41,sentimental,1,My kid's birthday are coming up again. It always makes me remember them as babies.,2,It always makes me remember them as babies.,0
+287,41,sentimental,2,Awe how sweet_comma_ I bet those are good memories,1,Awe how sweet_comma_ I bet those are good memories,1
+288,41,sentimental,3,They are. All the sights and sounds of babies are so precious to remember.,1,They are.,0
+289,41,sentimental,3,They are. All the sights and sounds of babies are so precious to remember.,2,All the sights and sounds of babies are so precious to remember.,0
+290,41,sentimental,4,I agree with that for sure.,1,I agree with that for sure.,1
+291,42,excited,1,When I was a little child my parents told me that we were going to the amusement park and it made me so happy,1,When I was a little child my parents told me that we were going to the amusement park and it made me so happy,0
+292,42,excited,2,I bet! That sounds like fun.,1,I bet!,1
+293,42,excited,2,I bet! That sounds like fun.,2,That sounds like fun.,1
+294,42,excited,3,It was fun for sure_comma_ all the rides and the food_comma_ it brings back great memories.,1,It was fun for sure_comma_ all the rides and the food_comma_ it brings back great memories.,0
+295,42,excited,4,What sweet memories to hold on to.,1,What sweet memories to hold on to.,1
+296,42,excited,5,Have you ever been to the amusement park?,1,Have you ever been to the amusement park?,0
+297,43,excited,1,My wife and I decided to go on an iternational trip last year_comma_ and it was my first trip out of the US. It was an amazing experience_comma_ and one of the best and most memorable things I've ever done.,1,My wife and I decided to go on an iternational trip last year_comma_ and it was my first trip out of the US.,0
+298,43,excited,1,My wife and I decided to go on an iternational trip last year_comma_ and it was my first trip out of the US. It was an amazing experience_comma_ and one of the best and most memorable things I've ever done.,2,It was an amazing experience_comma_ and one of the best and most memorable things I've ever done.,0
+299,43,excited,2,That's awesome! How helpful where the other people so that you could enjoy your trip?,1,That's awesome!,1
+300,43,excited,2,That's awesome! How helpful where the other people so that you could enjoy your trip?,2,How helpful where the other people so that you could enjoy your trip?,1
+301,43,excited,3,My wife was amazing. She booked the whole trip for us_comma_ and planned out some things for us to do while we were there. The person's house we stayed at was also really great_comma_ and helped us find our way around Auckland.,1,My wife was amazing.,0
+302,43,excited,3,My wife was amazing. She booked the whole trip for us_comma_ and planned out some things for us to do while we were there. The person's house we stayed at was also really great_comma_ and helped us find our way around Auckland.,2,She booked the whole trip for us_comma_ and planned out some things for us to do while we were there.,0
+303,43,excited,3,My wife was amazing. She booked the whole trip for us_comma_ and planned out some things for us to do while we were there. The person's house we stayed at was also really great_comma_ and helped us find our way around Auckland.,3,The person's house we stayed at was also really great_comma_ and helped us find our way around Auckland.,0
+304,43,excited,4,Must have been super fun. How were the local people? How did they treat you?,1,Must have been super fun.,1
+305,43,excited,4,Must have been super fun. How were the local people? How did they treat you?,2,How were the local people?,1
+306,43,excited,4,Must have been super fun. How were the local people? How did they treat you?,3,How did they treat you?,1
+307,43,excited,5,Super nice_comma_ the locals were always willing to help us navigate around_comma_ and had great recommendations for things to try while we were there.,1,Super nice_comma_ the locals were always willing to help us navigate around_comma_ and had great recommendations for things to try while we were there.,0
+308,43,excited,6,That's great! Im glad that they took care of you! Have a gret day!,1,That's great!,1
+309,43,excited,6,That's great! Im glad that they took care of you! Have a gret day!,2,Im glad that they took care of you!,1
+310,43,excited,6,That's great! Im glad that they took care of you! Have a gret day!,3,Have a gret day!,1
+311,44,caring,1,Onnce I had to take care of my cousin who had an ailing stomach,1,Onnce I had to take care of my cousin who had an ailing stomach,0
+312,44,caring,2,I'm sorry to hear that. Do you know what caused it?,1,I'm sorry to hear that.,1
+313,44,caring,2,I'm sorry to hear that. Do you know what caused it?,2,Do you know what caused it?,1
+314,44,caring,3,Apparently he ate something and slept immediately,1,Apparently he ate something and slept immediately,0
+315,44,caring,4,I've done that to myself before. Now I always wait awhile to sleep after eating.,1,I've done that to myself before.,1
+316,44,caring,4,I've done that to myself before. Now I always wait awhile to sleep after eating.,2,Now I always wait awhile to sleep after eating.,1
+317,44,caring,5,Yeah I had to tell him either to sleep first for a bit than eat. Or eat at first and wait an hour,1,Yeah I had to tell him either to sleep first for a bit than eat.,0
+318,44,caring,5,Yeah I had to tell him either to sleep first for a bit than eat. Or eat at first and wait an hour,2,Or eat at first and wait an hour,0
+319,45,afraid,1,I felt afraid. Still i remember it,1,I felt afraid.,0
+320,45,afraid,1,I felt afraid. Still i remember it,2,Still i remember it,0
+321,45,afraid,2,What were you afraid of?,1,What were you afraid of?,1
+322,45,afraid,3,Two years ago_comma_ i was admitted in hospital. I was ill,1,Two years ago_comma_ i was admitted in hospital.,0
+323,45,afraid,3,Two years ago_comma_ i was admitted in hospital. I was ill,2,I was ill,0
+324,45,afraid,4,Oh No_comma_ well glad to see you are here still!,1,Oh No_comma_ well glad to see you are here still!,1
+325,45,afraid,5,Luckily,1,Luckily,0
+326,46,annoyed,1,We have a new manager at work and it isnt going well.,1,We have a new manager at work and it isnt going well.,0
+327,46,annoyed,2,what is your job position?,1,what is your job position?,1
+328,46,annoyed,3,I do sales work_comma_ but he always lies to us and takes our bonus money.,1,I do sales work_comma_ but he always lies to us and takes our bonus money.,0
+329,46,annoyed,4,That's very bad,1,That's very bad,1
+330,47,trusting,1,You are never going to believe what I did,1,You are never going to believe what I did,0
+331,47,trusting,2,What did you do?,1,What did you do?,1
+332,47,trusting,3,Well_comma_ I normally do not feel comfortable lending things to my friends_comma_ but recently I mustered up the trust to loan my friend my vehicle.,1,Well_comma_ I normally do not feel comfortable lending things to my friends_comma_ but recently I mustered up the trust to loan my friend my vehicle.,0
+333,47,trusting,4,Ouch... Is it just for a day? Is your friend a safe driver?,1,Ouch... Is it just for a day?,1
+334,47,trusting,4,Ouch... Is it just for a day? Is your friend a safe driver?,2,Is your friend a safe driver?,1
+335,47,trusting,5,Well_comma_ I have known him for a while and I have never seen him drive crazy_comma_ so im just hoping all goes well.  It is just for a day_comma_ but a lot can happen in a day.,1,Well_comma_ I have known him for a while and I have never seen him drive crazy_comma_ so im just hoping all goes well.,0
+336,47,trusting,5,Well_comma_ I have known him for a while and I have never seen him drive crazy_comma_ so im just hoping all goes well.  It is just for a day_comma_ but a lot can happen in a day.,2,It is just for a day_comma_ but a lot can happen in a day.,0
+337,47,trusting,6,Yes... If this makes you feel better.. I lent my car to a friend for a week and thank goodness everything was alright.,1,Yes...,1
+338,47,trusting,6,Yes... If this makes you feel better.. I lent my car to a friend for a week and thank goodness everything was alright.,2,If this makes you feel better..,1
+339,47,trusting,6,Yes... If this makes you feel better.. I lent my car to a friend for a week and thank goodness everything was alright.,3,I lent my car to a friend for a week and thank goodness everything was alright.,1
+340,48,guilty,1,I went shopping yesterday and bought a $2000 bag. My husband is going to kill me..,1,I went shopping yesterday and bought a $2000 bag.,0
+341,48,guilty,1,I went shopping yesterday and bought a $2000 bag. My husband is going to kill me..,2,My husband is going to kill me..,0
+342,48,guilty,2,Haha my girlfriend does the same thing.  Check comes in and she is so happy to have money for the next two weeks_comma_ then goes and spends it all on clothing and accessories.,1,Haha my girlfriend does the same thing.,1
+343,48,guilty,2,Haha my girlfriend does the same thing.  Check comes in and she is so happy to have money for the next two weeks_comma_ then goes and spends it all on clothing and accessories.,2,Check comes in and she is so happy to have money for the next two weeks_comma_ then goes and spends it all on clothing and accessories.,1
+344,48,guilty,3,All women have the same problem. It is a guilty pleasure..,1,All women have the same problem.,0
+345,48,guilty,3,All women have the same problem. It is a guilty pleasure..,2,It is a guilty pleasure..,0
+346,48,guilty,4,We all deserve to treat ourselves every now and then.,1,We all deserve to treat ourselves every now and then.,1
+347,49,disgusted,1,I hate to be tired and see a store crowded with customers and only one or two checkouts open.,1,I hate to be tired and see a store crowded with customers and only one or two checkouts open.,0
+348,49,disgusted,2,Yeah it's really frustrating when they won't have more eople on.,1,Yeah it's really frustrating when they won't have more eople on.,1
+349,49,disgusted,3,Especially when it's a time of day that they know will be crowded and busy.,1,Especially when it's a time of day that they know will be crowded and busy.,0
+350,49,disgusted,4,Exactly. Hopefully more places will get self-checkout so we can get through the line faster.,1,Exactly.,1
+351,49,disgusted,4,Exactly. Hopefully more places will get self-checkout so we can get through the line faster.,2,Hopefully more places will get self-checkout so we can get through the line faster.,1
+352,49,disgusted,5,I don't mind those sometimes_comma_ sometimes I prefer they do it.,1,I don't mind those sometimes_comma_ sometimes I prefer they do it.,0
+353,50,furious,1,There was a person who had to do twice the amount of work that they usually do. Sounded like they need to fire whoever didn't do their job,1,There was a person who had to do twice the amount of work that they usually do.,0
+354,50,furious,1,There was a person who had to do twice the amount of work that they usually do. Sounded like they need to fire whoever didn't do their job,2,Sounded like they need to fire whoever didn't do their job,0
+355,50,furious,2,Yeah_comma_ or at least do something to correct that.,1,Yeah_comma_ or at least do something to correct that.,1
+356,50,furious,3,Maybe there should be a training day where they do back over everything_comma_,1,Maybe there should be a training day where they do back over everything_comma_,0
+357,50,furious,4,or hire more people maybe also,1,or hire more people maybe also,1
+358,50,furious,5,That too! If only,1,That too!,0
+359,50,furious,5,That too! If only,2,If only,0
+360,50,furious,6,They don't spend money unless they absolutely have to. They get bonuses for saving money I think,1,They don't spend money unless they absolutely have to.,1
+361,50,furious,6,They don't spend money unless they absolutely have to. They get bonuses for saving money I think,2,They get bonuses for saving money I think,1
+362,51,angry,1,So our new manager has changed our bonus structure causing us to never hit bonus..,1,So our new manager has changed our bonus structure causing us to never hit bonus..,0
+363,51,angry,2,And then what?,1,And then what?,1
+364,51,angry,3,Its frustrating when I go from 24 an hour to 10 an hour because of his lies.,1,Its frustrating when I go from 24 an hour to 10 an hour because of his lies.,0
+365,51,angry,4,I understand_comma_ that must suck,1,I understand_comma_ that must suck,1
+366,52,sad,1,I had a chance to make some money_comma_ but my phone screwed up,1,I had a chance to make some money_comma_ but my phone screwed up,0
+367,52,sad,2,Thats terrible... have you gotten a new phone yet?,1,Thats terrible... have you gotten a new phone yet?,1
+368,52,sad,3,yes i did_comma_ but i still can not get that money,1,yes i did_comma_ but i still can not get that money,0
+369,52,sad,4,Thats true_comma_ but I hope some good luck comes your way soon..,1,Thats true_comma_ but I hope some good luck comes your way soon..,1
+370,53,anticipating,1,Last year I was so excited to be moving.,1,Last year I was so excited to be moving.,0
+371,53,anticipating,2,oh well_comma_ where did you move?,1,oh well_comma_ where did you move?,1
+372,53,anticipating,3,We moved back to our hometown. We were so looking forward to being near family and friends again.,1,We moved back to our hometown.,0
+373,53,anticipating,3,We moved back to our hometown. We were so looking forward to being near family and friends again.,2,We were so looking forward to being near family and friends again.,0
+374,53,anticipating,4,wow!! wonderful isn't!! you would have been over the moon once you moved..,1,wow!!,1
+375,53,anticipating,4,wow!! wonderful isn't!! you would have been over the moon once you moved..,2,wonderful isn't!!,1
+376,53,anticipating,4,wow!! wonderful isn't!! you would have been over the moon once you moved..,3,you would have been over the moon once you moved..,1
+377,54,anxious,1,i bumped into a car while reversing_comma_ i had to wait long to talk to owner of the other car,1,i bumped into a car while reversing_comma_ i had to wait long to talk to owner of the other car,0
+378,54,anxious,2,Oh no_comma_ that's terrible. Sorry you had to deal with that.,1,Oh no_comma_ that's terrible.,1
+379,54,anxious,2,Oh no_comma_ that's terrible. Sorry you had to deal with that.,2,Sorry you had to deal with that.,1
+380,54,anxious,3,It was indeed. the worst part was not able to get hold of him. He parked and wandered somewhere.,1,It was indeed.,0
+381,54,anxious,3,It was indeed. the worst part was not able to get hold of him. He parked and wandered somewhere.,2,the worst part was not able to get hold of him.,0
+382,54,anxious,3,It was indeed. the worst part was not able to get hold of him. He parked and wandered somewhere.,3,He parked and wandered somewhere.,0
+383,54,anxious,4,I am sure that threw a wrench in your plans. How frustrating!,1,I am sure that threw a wrench in your plans.,1
+384,54,anxious,4,I am sure that threw a wrench in your plans. How frustrating!,2,How frustrating!,1
+385,54,anxious,5,Yeah i missed my movie..,1,Yeah i missed my movie..,0
+386,55,nostalgic,1,I was having a bad day the other day but my spouse went and surprised me with my favorite food.,1,I was having a bad day the other day but my spouse went and surprised me with my favorite food.,0
+387,55,nostalgic,2,whats your favorite food? that was very nice of them,1,whats your favorite food?,1
+388,55,nostalgic,2,whats your favorite food? that was very nice of them,2,that was very nice of them,1
+389,55,nostalgic,3,I know it was rather sweet of them... i love anything asian!,1,I know it was rather sweet of them... i love anything asian!,0
+390,55,nostalgic,4,oh nice_comma_ im afraid the most asian food that i like is fortune cookies,1,oh nice_comma_ im afraid the most asian food that i like is fortune cookies,1
+391,56,surprised,1,We just got back from vacation and our sleep times are off. It is really messing with me.,1,We just got back from vacation and our sleep times are off.,0
+392,56,surprised,1,We just got back from vacation and our sleep times are off. It is really messing with me.,2,It is really messing with me.,0
+393,56,surprised,2,That will mess you up for a few days. The only thing I don't like about going away.,1,That will mess you up for a few days.,1
+394,56,surprised,2,That will mess you up for a few days. The only thing I don't like about going away.,2,The only thing I don't like about going away.,1
+395,56,surprised,3,I went to bed at a decent time last night. When I woke up my kids were still up watching cartoons!,1,I went to bed at a decent time last night.,0
+396,56,surprised,3,I went to bed at a decent time last night. When I woke up my kids were still up watching cartoons!,2,When I woke up my kids were still up watching cartoons!,0
+397,56,surprised,4,Oh no. Hopefully everybody gets back to normal soon.,1,Oh no.,1
+398,56,surprised,4,Oh no. Hopefully everybody gets back to normal soon.,2,Hopefully everybody gets back to normal soon.,1
+399,57,proud,1,I like getting things done in the yard_comma_but I feel so dirty afterwards.,1,I like getting things done in the yard_comma_but I feel so dirty afterwards.,0
+400,57,proud,2,I only like yard work with the kids. They do most of the work and we have fun in the dirt.,1,I only like yard work with the kids.,1
+401,57,proud,2,I only like yard work with the kids. They do most of the work and we have fun in the dirt.,2,They do most of the work and we have fun in the dirt.,1
+402,57,proud,3,The grass makes me itchy_comma_ But the shower afterward feels great.,1,The grass makes me itchy_comma_ But the shower afterward feels great.,0
+403,57,proud,4,Oh no. The shower is the plus side to all the dirt I guess. I once found a snake digging a hole to plant a flower. I quit that day.,1,Oh no.,1
+404,57,proud,4,Oh no. The shower is the plus side to all the dirt I guess. I once found a snake digging a hole to plant a flower. I quit that day.,2,The shower is the plus side to all the dirt I guess.,1
+405,57,proud,4,Oh no. The shower is the plus side to all the dirt I guess. I once found a snake digging a hole to plant a flower. I quit that day.,3,I once found a snake digging a hole to plant a flower.,1
+406,57,proud,4,Oh no. The shower is the plus side to all the dirt I guess. I once found a snake digging a hole to plant a flower. I quit that day.,4,I quit that day.,1
+407,58,sad,1,So the other day I had a crazy long day and got home to find all of my chocolate was gone!,1,So the other day I had a crazy long day and got home to find all of my chocolate was gone!,0
+408,58,sad,2,Oh my gosh! I would have been so upset! Nothing is better than chocolates on a bad day.,1,Oh my gosh!,1
+409,58,sad,2,Oh my gosh! I would have been so upset! Nothing is better than chocolates on a bad day.,2,I would have been so upset!,1
+410,58,sad,2,Oh my gosh! I would have been so upset! Nothing is better than chocolates on a bad day.,3,Nothing is better than chocolates on a bad day.,1
+411,58,sad,3,I know right! ..._comma_ but atleast I had some amaretto in the fridge.. lol,1,I know right!,0
+412,58,sad,3,I know right! ..._comma_ but atleast I had some amaretto in the fridge.. lol,2,..._comma_ but atleast I had some amaretto in the fridge.. lol,0
+413,58,sad,4,That's definitely better than nothing. I hope your days have been better since!,1,That's definitely better than nothing.,1
+414,58,sad,4,That's definitely better than nothing. I hope your days have been better since!,2,I hope your days have been better since!,1
+415,59,joyful,1,My daughter_comma_ Brooklyn_comma_ has finally overcame her fear of water and learned to swim! It makes me so happy to see her loving the water.,1,My daughter_comma_ Brooklyn_comma_ has finally overcame her fear of water and learned to swim!,0
+416,59,joyful,1,My daughter_comma_ Brooklyn_comma_ has finally overcame her fear of water and learned to swim! It makes me so happy to see her loving the water.,2,It makes me so happy to see her loving the water.,0
+417,59,joyful,2,Thats so special! What a beautiful moment.. How old is she?,1,Thats so special!,1
+418,59,joyful,2,Thats so special! What a beautiful moment.. How old is she?,2,What a beautiful moment.. How old is she?,1
+419,59,joyful,3,She is 4. She normally is completely fearless_comma_ compared to my son who is afraid of everything. Haha! So I love that she has worked so hard to overcome this.,1,She is 4.,0
+420,59,joyful,3,She is 4. She normally is completely fearless_comma_ compared to my son who is afraid of everything. Haha! So I love that she has worked so hard to overcome this.,2,She normally is completely fearless_comma_ compared to my son who is afraid of everything.,0
+421,59,joyful,3,She is 4. She normally is completely fearless_comma_ compared to my son who is afraid of everything. Haha! So I love that she has worked so hard to overcome this.,3,Haha!,0
+422,59,joyful,3,She is 4. She normally is completely fearless_comma_ compared to my son who is afraid of everything. Haha! So I love that she has worked so hard to overcome this.,4,So I love that she has worked so hard to overcome this.,0
+423,59,joyful,4,"My daughter is 1.5 years old - shes just been introduced to the water.. its always so special when our babies have their ""first"" moments. Congrats mama! ",1,"My daughter is 1.5 years old - shes just been introduced to the water.. its always so special when our babies have their ""first"" moments.",1
+424,59,joyful,4,"My daughter is 1.5 years old - shes just been introduced to the water.. its always so special when our babies have their ""first"" moments. Congrats mama! ",2,Congrats mama!,1
+425,59,joyful,5,Thank you_comma_ and same to you! I hope you enjoy many happy swimming days with your little princess.,1,Thank you_comma_ and same to you!,0
+426,59,joyful,5,Thank you_comma_ and same to you! I hope you enjoy many happy swimming days with your little princess.,2,I hope you enjoy many happy swimming days with your little princess.,0
+427,60,afraid,1,Hi_comma_ I am concerned about the financial situation of my employer.,1,Hi_comma_ I am concerned about the financial situation of my employer.,0
+428,60,afraid,2,Have  you thought about talking to your boss about it?,1,Have  you thought about talking to your boss about it?,1
+429,60,afraid,3,I don't think it is a good idea. There was a layout off six month ago.,1,I don't think it is a good idea.,0
+430,60,afraid,3,I don't think it is a good idea. There was a layout off six month ago.,2,There was a layout off six month ago.,0
+431,60,afraid,4,You should still speak to him about your concerns.,1,You should still speak to him about your concerns.,1
+432,61,angry,1,So I am home from work and Marks car was outside. I went in and him and Liz were kissing on the couch.,1,So I am home from work and Marks car was outside.,0
+433,61,angry,1,So I am home from work and Marks car was outside. I went in and him and Liz were kissing on the couch.,2,I went in and him and Liz were kissing on the couch.,0
+434,61,angry,2,This is terrible. So sad to hear that. What did you do then?,1,This is terrible.,1
+435,61,angry,2,This is terrible. So sad to hear that. What did you do then?,2,So sad to hear that.,1
+436,61,angry,2,This is terrible. So sad to hear that. What did you do then?,3,What did you do then?,1
+437,61,angry,3,I made them both leave but me and Liz are breaking up.,1,I made them both leave but me and Liz are breaking up.,0
+438,61,angry,4,Did she already move out?,1,Did she already move out?,1
+439,61,angry,5,I asked her to come and pack her bags. Enough is enough I can not do this with her anymore.,1,I asked her to come and pack her bags.,0
+440,61,angry,5,I asked her to come and pack her bags. Enough is enough I can not do this with her anymore.,2,Enough is enough I can not do this with her anymore.,0
+441,62,anxious,1,Did you go outside and see if anyone was hurt?,1,Did you go outside and see if anyone was hurt?,0
+442,62,anxious,2,What do you mean? I don't know what you are talking about.,1,What do you mean?,1
+443,62,anxious,2,What do you mean? I don't know what you are talking about.,2,I don't know what you are talking about.,1
+444,62,anxious,3,I heard a noise outside that sounded like a car had wrecked yesterday.,1,I heard a noise outside that sounded like a car had wrecked yesterday.,0
+445,62,anxious,4,Well then I guess you should have went and checked to see if anyone was hurt. I hope you called a ambulance.,1,Well then I guess you should have went and checked to see if anyone was hurt.,1
+446,62,anxious,4,Well then I guess you should have went and checked to see if anyone was hurt. I hope you called a ambulance.,2,I hope you called a ambulance.,1
+447,63,disgusted,1,So after I left the club last night I noticed the Taxi had old throw up in it still.,1,So after I left the club last night I noticed the Taxi had old throw up in it still.,0
+448,63,disgusted,2,I would have gotten out right then I believe.,1,I would have gotten out right then I believe.,1
+449,63,disgusted,3,I still took it since it was late but I rode in the front seat.,1,I still took it since it was late but I rode in the front seat.,0
+450,63,disgusted,4,I guess you rolled all the windows down too and held your breath,1,I guess you rolled all the windows down too and held your breath,1
+451,63,disgusted,5,It was gross but I was super tired. I only paid half for the ride though.,1,It was gross but I was super tired.,0
+452,63,disgusted,5,It was gross but I was super tired. I only paid half for the ride though.,2,I only paid half for the ride though.,0
+453,64,hopeful,1,My marriage give me hopefulness about the life. exactly I want to say is may not it's marriage actually it's my wife given me the hope about the life.,1,My marriage give me hopefulness about the life.,0
+454,64,hopeful,1,My marriage give me hopefulness about the life. exactly I want to say is may not it's marriage actually it's my wife given me the hope about the life.,2,exactly I want to say is may not it's marriage actually it's my wife given me the hope about the life.,0
+455,64,hopeful,2,Wao_comma_ that sound like a great strong realtionship you have with her_comma_ so glad to hear that!,1,Wao_comma_ that sound like a great strong realtionship you have with her_comma_ so glad to hear that!,1
+456,64,hopeful,3,Yeah_comma_ thank you! at which situation did you feel hope for your life?,1,Yeah_comma_ thank you!,0
+457,64,hopeful,3,Yeah_comma_ thank you! at which situation did you feel hope for your life?,2,at which situation did you feel hope for your life?,0
+458,64,hopeful,4,When my first daugther was born! i saw in new life_comma_ i thought everything in the world can change_comma_ we need to be pure as kids.,1,When my first daugther was born!,1
+459,64,hopeful,4,When my first daugther was born! i saw in new life_comma_ i thought everything in the world can change_comma_ we need to be pure as kids.,2,i saw in new life_comma_ i thought everything in the world can change_comma_ we need to be pure as kids.,1
+460,64,hopeful,5,Wow! you're right. We should learn from kids.,1,Wow!,0
+461,64,hopeful,5,Wow! you're right. We should learn from kids.,2,you're right.,0
+462,64,hopeful,5,Wow! you're right. We should learn from kids.,3,We should learn from kids.,0
+463,64,hopeful,6,When i see them_comma_ i believe thiw world in which we live fill with envy and hate can be rewed,1,When i see them_comma_ i believe thiw world in which we live fill with envy and hate can be rewed,1
+464,65,sentimental,1,The other day when I was cleaning I came across an old keychain my dad gave me when I was younger_comma_ it was nice to see.,1,The other day when I was cleaning I came across an old keychain my dad gave me when I was younger_comma_ it was nice to see.,0
+465,65,sentimental,2,Thats good that you found the keychain,1,Thats good that you found the keychain,1
+466,65,sentimental,3,Yeah it meant a lot to me - almost like a sign!,1,Yeah it meant a lot to me - almost like a sign!,0
+467,65,sentimental,4,that's very good! Always nice to find those old lost items.,1,that's very good!,1
+468,65,sentimental,4,that's very good! Always nice to find those old lost items.,2,Always nice to find those old lost items.,1
+469,66,furious,1,My handyman keeps telling me he's coming by to fix my leaky sink_comma_ but he never shows up when he says he will_comma_ ugh.,1,My handyman keeps telling me he's coming by to fix my leaky sink_comma_ but he never shows up when he says he will_comma_ ugh.,0
+470,66,furious,2,That is seriously the worst... waiting around all day wondering whats going on! Have you tried calling him today?,1,That is seriously the worst... waiting around all day wondering whats going on!,1
+471,66,furious,2,That is seriously the worst... waiting around all day wondering whats going on! Have you tried calling him today?,2,Have you tried calling him today?,1
+472,66,furious,3,Oh yeah_comma_ and it goes to his answering machine every time.,1,Oh yeah_comma_ and it goes to his answering machine every time.,0
+473,66,furious,4,Of course right_comma_ I would try angies list or homeadvisor! They can find you a new one...,1,Of course right_comma_ I would try angies list or homeadvisor!,1
+474,66,furious,4,Of course right_comma_ I would try angies list or homeadvisor! They can find you a new one...,2,They can find you a new one...,1
+475,66,furious,5,Thanks I will.,1,Thanks I will.,0
+476,67,jealous,1,My co worker keeps getting told how great of a job he is doing and I know hes doing wrong to get all the sales.,1,My co worker keeps getting told how great of a job he is doing and I know hes doing wrong to get all the sales.,0
+477,67,jealous,2,Oh no. I am sure he will get caught eventually though.,1,Oh no.,1
+478,67,jealous,2,Oh no. I am sure he will get caught eventually though.,2,I am sure he will get caught eventually though.,1
+479,67,jealous,3,Doubtful_comma_ but I sure hope so! He gets a 100 dollar bonus every week because of his ways..,1,Doubtful_comma_ but I sure hope so!,0
+480,67,jealous,3,Doubtful_comma_ but I sure hope so! He gets a 100 dollar bonus every week because of his ways..,2,He gets a 100 dollar bonus every week because of his ways..,0
+481,67,jealous,4,Things you do usually come back to you .,1,Things you do usually come back to you .,1
+482,68,confident,1,It was amazing sitting on the stage in that hug auditorium.,1,It was amazing sitting on the stage in that hug auditorium.,0
+483,68,confident,2,What event was taking place?,1,What event was taking place?,1
+484,68,confident,3,Music. Some of the hardest music that professionals play.,1,Music.,0
+485,68,confident,3,Music. Some of the hardest music that professionals play.,2,Some of the hardest music that professionals play.,0
+486,68,confident,4,That's cool you were on stage for that. Were you one of the musicians?,1,That's cool you were on stage for that.,1
+487,68,confident,4,That's cool you were on stage for that. Were you one of the musicians?,2,Were you one of the musicians?,1
+488,68,confident,5,yes i was,1,yes i was,0
+489,69,content,1,I am satisfied to have a good vacation,1,I am satisfied to have a good vacation,0
+490,69,content,2,Oh yeah what are you doing for your vacation?,1,Oh yeah what are you doing for your vacation?,1
+491,69,content,3,Nothing special. I just travel to my familly. It has been almost a year that I didn't see them.,1,Nothing special.,0
+492,69,content,3,Nothing special. I just travel to my familly. It has been almost a year that I didn't see them.,2,I just travel to my familly.,0
+493,69,content,3,Nothing special. I just travel to my familly. It has been almost a year that I didn't see them.,3,It has been almost a year that I didn't see them.,0
+494,69,content,4,Sounds rather special to me! Out of the country or to another state?,1,Sounds rather special to me!,1
+495,69,content,4,Sounds rather special to me! Out of the country or to another state?,2,Out of the country or to another state?,1
+496,70,proud,1,So the other day my daughter went potty for the first time on her own!,1,So the other day my daughter went potty for the first time on her own!,0
+497,70,proud,2,That is great. It is sweet to see them grow and learn. How old is she?,1,That is great.,1
+498,70,proud,2,That is great. It is sweet to see them grow and learn. How old is she?,2,It is sweet to see them grow and learn.,1
+499,70,proud,2,That is great. It is sweet to see them grow and learn. How old is she?,3,How old is she?,1
+500,70,proud,3,Shes 18 months old_comma_ it really is amazing to see them develop. If only people clapped for us when we used the bathroom... ha ha,1,Shes 18 months old_comma_ it really is amazing to see them develop.,0
+501,70,proud,3,Shes 18 months old_comma_ it really is amazing to see them develop. If only people clapped for us when we used the bathroom... ha ha,2,If only people clapped for us when we used the bathroom... ha ha,0
+502,70,proud,4,Funny one ha ha,1,Funny one ha ha,1
+503,71,impressed,1,The other day after dinner my daughter took her trash to the trash on her own. I love watching her develop!,1,The other day after dinner my daughter took her trash to the trash on her own.,0
+504,71,impressed,1,The other day after dinner my daughter took her trash to the trash on her own. I love watching her develop!,2,I love watching her develop!,0
+505,71,impressed,2,It is so sweet. Is she able to talk?,1,It is so sweet.,1
+506,71,impressed,2,It is so sweet. Is she able to talk?,2,Is she able to talk?,1
+507,71,impressed,3,Shes just starting to try to say full sentences_comma_ but right now its just a lot of babbling and drooling. lol,1,Shes just starting to try to say full sentences_comma_ but right now its just a lot of babbling and drooling.,0
+508,71,impressed,3,Shes just starting to try to say full sentences_comma_ but right now its just a lot of babbling and drooling. lol,2,lol,0
+509,71,impressed,4,That should be funny to see and hear,1,That should be funny to see and hear,1
+510,72,furious,1,i am angry against a friend that suppose to help me.,1,i am angry against a friend that suppose to help me.,0
+511,72,furious,2,That sucks... what was he or she supposed to help you with?,1,That sucks... what was he or she supposed to help you with?,1
+512,72,furious,3,I wanted to wall mount my TV but my friend didn't come and turned off his cell phone. I was always helping him for anything.,1,I wanted to wall mount my TV but my friend didn't come and turned off his cell phone.,0
+513,72,furious,3,I wanted to wall mount my TV but my friend didn't come and turned off his cell phone. I was always helping him for anything.,2,I was always helping him for anything.,0
+514,72,furious,4,Well I hope you two can talk it out_comma_ express your feelings and work it out together! Friendship is hard to come by these days...,1,Well I hope you two can talk it out_comma_ express your feelings and work it out together!,1
+515,72,furious,4,Well I hope you two can talk it out_comma_ express your feelings and work it out together! Friendship is hard to come by these days...,2,Friendship is hard to come by these days...,1
+516,73,prepared,1,I traveled a few months ago and didnt realize how much planning is involved! Wow it was a lot to get ready for...,1,I traveled a few months ago and didnt realize how much planning is involved!,0
+517,73,prepared,1,I traveled a few months ago and didnt realize how much planning is involved! Wow it was a lot to get ready for...,2,Wow it was a lot to get ready for...,0
+518,73,prepared,2,Traveling is hard work. Where did you go?,1,Traveling is hard work.,1
+519,73,prepared,2,Traveling is hard work. Where did you go?,2,Where did you go?,1
+520,73,prepared,3,I went to Peru to visit my family. I try to go every year.,1,I went to Peru to visit my family.,0
+521,73,prepared,3,I went to Peru to visit my family. I try to go every year.,2,I try to go every year.,0
+522,73,prepared,4,Wow. I have never neen that far! I have been to the Caribbean though.,1,Wow.,1
+523,73,prepared,4,Wow. I have never neen that far! I have been to the Caribbean though.,2,I have never neen that far!,1
+524,73,prepared,4,Wow. I have never neen that far! I have been to the Caribbean though.,3,I have been to the Caribbean though.,1
+525,74,trusting,1,I have a small circle of friends. They are like my family.,1,I have a small circle of friends.,0
+526,74,trusting,1,I have a small circle of friends. They are like my family.,2,They are like my family.,0
+527,74,trusting,2,Thats awesome_comma_ friends really can be the best. How long have you known them?,1,Thats awesome_comma_ friends really can be the best.,1
+528,74,trusting,2,Thats awesome_comma_ friends really can be the best. How long have you known them?,2,How long have you known them?,1
+529,74,trusting,3,Around ten years. I let my friends borrow my debit card the other day. A stranger wouldve wiped me out.,1,Around ten years.,0
+530,74,trusting,3,Around ten years. I let my friends borrow my debit card the other day. A stranger wouldve wiped me out.,2,I let my friends borrow my debit card the other day.,0
+531,74,trusting,3,Around ten years. I let my friends borrow my debit card the other day. A stranger wouldve wiped me out.,3,A stranger wouldve wiped me out.,0
+532,74,trusting,4,Im glad you have such good friends in your life_comma_ it makes life easier.,1,Im glad you have such good friends in your life_comma_ it makes life easier.,1
+533,74,trusting,5,Yep. Trust them with my life.,1,Yep.,0
+534,74,trusting,5,Yep. Trust them with my life.,2,Trust them with my life.,0
+535,75,afraid,1,So we had a meeting at work this week. Turns out we may have to shut down in the next few months.,1,So we had a meeting at work this week.,0
+536,75,afraid,1,So we had a meeting at work this week. Turns out we may have to shut down in the next few months.,2,Turns out we may have to shut down in the next few months.,0
+537,75,afraid,2,Omg... thats terrible! Im so sorry - Ive been through similar. Are they going to give you some sort of money upon lay off?,1,Omg... thats terrible!,1
+538,75,afraid,2,Omg... thats terrible! Im so sorry - Ive been through similar. Are they going to give you some sort of money upon lay off?,2,Im so sorry - Ive been through similar.,1
+539,75,afraid,2,Omg... thats terrible! Im so sorry - Ive been through similar. Are they going to give you some sort of money upon lay off?,3,Are they going to give you some sort of money upon lay off?,1
+540,75,afraid,3,I feel like if they go through with it they have to offer us packages right?,1,I feel like if they go through with it they have to offer us packages right?,0
+541,75,afraid,4,If they have a heart or soul they will! They really should...,1,If they have a heart or soul they will!,1
+542,75,afraid,4,If they have a heart or soul they will! They really should...,2,They really should...,1
+543,75,afraid,5,Yeah I think a bunch of us are going to meet up after work and talk about it.,1,Yeah I think a bunch of us are going to meet up after work and talk about it.,0
+544,76,surprised,1,The other day I got a bonus from work_comma_ which was amazing because i have recently got behind in bills.,1,The other day I got a bonus from work_comma_ which was amazing because i have recently got behind in bills.,0
+545,76,surprised,2,That is really cool! Did they tell you why they were giving you the bonus?,1,That is really cool!,1
+546,76,surprised,2,That is really cool! Did they tell you why they were giving you the bonus?,2,Did they tell you why they were giving you the bonus?,1
+547,76,surprised,3,I wasnt expecting it_comma_ but basically because my stats were above,1,I wasnt expecting it_comma_ but basically because my stats were above,0
+548,76,surprised,4,Well at least you get something to look forward too at work.,1,Well at least you get something to look forward too at work.,1
+549,77,excited,1,So I went to see the new Marvel movie with Thanos. It was so good and I am so pumped up now.,1,So I went to see the new Marvel movie with Thanos.,0
+550,77,excited,1,So I went to see the new Marvel movie with Thanos. It was so good and I am so pumped up now.,2,It was so good and I am so pumped up now.,0
+551,77,excited,2,What was it. I've been too busy to notice new movies out.,1,What was it.,1
+552,77,excited,2,What was it. I've been too busy to notice new movies out.,2,I've been too busy to notice new movies out.,1
+553,77,excited,3,It was called Infinity War! You should find time to see it.,1,It was called Infinity War!,0
+554,77,excited,3,It was called Infinity War! You should find time to see it.,2,You should find time to see it.,0
+555,77,excited,4,They do put out good movies most of the time. I will try and check it out.,1,They do put out good movies most of the time.,1
+556,77,excited,4,They do put out good movies most of the time. I will try and check it out.,2,I will try and check it out.,1
+557,77,excited,5,I think the new villain Thanos might be my favorite bad guy ever!,1,I think the new villain Thanos might be my favorite bad guy ever!,0
+558,78,furious,1,I am afraid my neighbors are causing snakes to come over my way.,1,I am afraid my neighbors are causing snakes to come over my way.,0
+559,78,furious,2,What are they doing to cause you to think that?,1,What are they doing to cause you to think that?,1
+560,78,furious,3,They aren't clean and I've been getting a lot of mice_comma_ and snakes follow them I think.,1,They aren't clean and I've been getting a lot of mice_comma_ and snakes follow them I think.,0
+561,78,furious,4,I have heard that too. You might want to contact your local district.,1,I have heard that too.,1
+562,78,furious,4,I have heard that too. You might want to contact your local district.,2,You might want to contact your local district.,1
+563,78,furious,5,good idea,1,good idea,0
+564,78,furious,6,No problem I hope everything works out,1,No problem I hope everything works out,1
+565,79,anxious,1,Today is my birthday! I am 34!,1,Today is my birthday!,0
+566,79,anxious,1,Today is my birthday! I am 34!,2,I am 34!,0
+567,79,anxious,2,Happy Birthday!!!! What are you going to do for it?,1,Happy Birthday!!!!,1
+568,79,anxious,2,Happy Birthday!!!! What are you going to do for it?,2,What are you going to do for it?,1
+569,79,anxious,3,Nothing today since its Thursday_comma_ hopefully I can bar hop this weekend. Waiting for gifts today.,1,Nothing today since its Thursday_comma_ hopefully I can bar hop this weekend.,0
+570,79,anxious,3,Nothing today since its Thursday_comma_ hopefully I can bar hop this weekend. Waiting for gifts today.,2,Waiting for gifts today.,0
+571,79,anxious,4,I hope you get lots and lots!,1,I hope you get lots and lots!,1
+572,79,anxious,5,me too. I love goodies.,1,me too.,0
+573,79,anxious,5,me too. I love goodies.,2,I love goodies.,0
+574,80,angry,1,I was so excited to move to a new state_comma_ but when i moved into my apartment it was full of bugs! ugh,1,I was so excited to move to a new state_comma_ but when i moved into my apartment it was full of bugs!,0
+575,80,angry,1,I was so excited to move to a new state_comma_ but when i moved into my apartment it was full of bugs! ugh,2,ugh,0
+576,80,angry,2,Oh no! Bugs really creep me out!,1,Oh no!,1
+577,80,angry,2,Oh no! Bugs really creep me out!,2,Bugs really creep me out!,1
+578,80,angry,3,me too.. i really was freaking out.,1,me too.. i really was freaking out.,0
+579,80,angry,4,what did the landlor do about it? Did you have to call an exterminator?,1,what did the landlor do about it?,1
+580,80,angry,4,what did the landlor do about it? Did you have to call an exterminator?,2,Did you have to call an exterminator?,1
+581,81,disappointed,1,I was disappointed by my manager when he told that I will probably get my promotion next year (not this year),1,I was disappointed by my manager when he told that I will probably get my promotion next year (not this year),0
+582,81,disappointed,2,Ugh.. that seems like forever away.. can you try to get it sooner?,1,Ugh.. that seems like forever away.. can you try to get it sooner?,1
+583,81,disappointed,3,No_comma_ I tried everything. It is like betrayed me.,1,No_comma_ I tried everything.,0
+584,81,disappointed,3,No_comma_ I tried everything. It is like betrayed me.,2,It is like betrayed me.,0
+585,81,disappointed,4,Maybe consider looking for a new job in the meantime? Never hurts to stay ahead..,1,Maybe consider looking for a new job in the meantime?,1
+586,81,disappointed,4,Maybe consider looking for a new job in the meantime? Never hurts to stay ahead..,2,Never hurts to stay ahead..,1
+587,82,excited,1,I get to go to the water park today! I cant wait.,1,I get to go to the water park today!,0
+588,82,excited,1,I get to go to the water park today! I cant wait.,2,I cant wait.,0
+589,82,excited,2,That is nice. I like going to water park. What time are you going?,1,That is nice.,1
+590,82,excited,2,That is nice. I like going to water park. What time are you going?,2,I like going to water park.,1
+591,82,excited,2,That is nice. I like going to water park. What time are you going?,3,What time are you going?,1
+592,82,excited,3,Its so much fun_comma_ really pretty down there too. Oh in a few hours!,1,Its so much fun_comma_ really pretty down there too.,0
+593,82,excited,3,Its so much fun_comma_ really pretty down there too. Oh in a few hours!,2,Oh in a few hours!,0
+594,82,excited,4,Is it a big water park?,1,Is it a big water park?,1
+595,83,embarrassed,1,I went out last weekend and had a major accident. Guess what happened...,1,I went out last weekend and had a major accident.,0
+596,83,embarrassed,1,I went out last weekend and had a major accident. Guess what happened...,2,Guess what happened...,0
+597,83,embarrassed,2,Are you ok_comma_ you have to tell me what happened.,1,Are you ok_comma_ you have to tell me what happened.,1
+598,83,embarrassed,3,I'm fine. Just a litte embarassed. I ripped my leggings dancing on bourbon street.,1,I'm fine.,0
+599,83,embarrassed,3,I'm fine. Just a litte embarassed. I ripped my leggings dancing on bourbon street.,2,Just a litte embarassed.,0
+600,83,embarrassed,3,I'm fine. Just a litte embarassed. I ripped my leggings dancing on bourbon street.,3,I ripped my leggings dancing on bourbon street.,0
+601,83,embarrassed,4,Ahh that has happened to everyone before. It is embarrassing but you will get over it.,1,Ahh that has happened to everyone before.,1
+602,83,embarrassed,4,Ahh that has happened to everyone before. It is embarrassing but you will get over it.,2,It is embarrassing but you will get over it.,1
+603,83,embarrassed,5,Yep. My shirt was long enough to cover it. Plus I don't live there lol.,1,Yep.,0
+604,83,embarrassed,5,Yep. My shirt was long enough to cover it. Plus I don't live there lol.,2,My shirt was long enough to cover it.,0
+605,83,embarrassed,5,Yep. My shirt was long enough to cover it. Plus I don't live there lol.,3,Plus I don't live there lol.,0
+606,83,embarrassed,6,Well im glad you were able to cover up.,1,Well im glad you were able to cover up.,1
+607,83,embarrassed,7,me too.,1,me too.,0
+608,84,terrified,1,So last night I was driving down this road and my car died and I had no lights.,1,So last night I was driving down this road and my car died and I had no lights.,0
+609,84,terrified,2,Oh no. That must have been scary.,1,Oh no.,1
+610,84,terrified,2,Oh no. That must have been scary.,2,That must have been scary.,1
+611,84,terrified,3,I was sitting their for over 6 hours in the dark and night.,1,I was sitting their for over 6 hours in the dark and night.,0
+612,84,terrified,4,Wow. I would've freaked. I can't even have all of the lights out in my apartment.,1,Wow.,1
+613,84,terrified,4,Wow. I would've freaked. I can't even have all of the lights out in my apartment.,2,I would've freaked.,1
+614,84,terrified,4,Wow. I would've freaked. I can't even have all of the lights out in my apartment.,3,I can't even have all of the lights out in my apartment.,1
+615,84,terrified,5,Well I finally got a signal and was able to get my brother to come and help me.,1,Well I finally got a signal and was able to get my brother to come and help me.,0
+616,84,terrified,6,Glad a bear didn't eat you,1,Glad a bear didn't eat you,1
+617,85,hopeful,1,My house feels like its taking forever to sell...but I have a feeling something good is going to come soon!,1,My house feels like its taking forever to sell...but I have a feeling something good is going to come soon!,0
+618,85,hopeful,2,How long have you been trying to sell it for?,1,How long have you been trying to sell it for?,1
+619,85,hopeful,3,It's been almost 3 months now_comma_ but not 1 offer.,1,It's been almost 3 months now_comma_ but not 1 offer.,0
+620,85,hopeful,4,I'm sure you will sell it soon! 3 months is not such a long time,1,I'm sure you will sell it soon!,1
+621,85,hopeful,4,I'm sure you will sell it soon! 3 months is not such a long time,2,3 months is not such a long time,1
+622,86,hopeful,1,I have been going to school for whar seems like forever.,1,I have been going to school for whar seems like forever.,0
+623,86,hopeful,2,Did you wait a lot?,1,Did you wait a lot?,1
+624,86,hopeful,3,I did. I am going to finish soon though.,1,I did.,0
+625,86,hopeful,3,I did. I am going to finish soon though.,2,I am going to finish soon though.,0
+626,86,hopeful,4,Ah ok Congratulation,1,Ah ok Congratulation,1
+627,87,annoyed,1,Recently_comma_ I have been annoyed by a coworker making jokes about me.,1,Recently_comma_ I have been annoyed by a coworker making jokes about me.,0
+628,87,annoyed,2,Shame on them.,1,Shame on them.,1
+629,87,annoyed,3,It is bothering me a lot. This coworker is not competent and he spend this time making jokes on other people.,1,It is bothering me a lot.,0
+630,87,annoyed,3,It is bothering me a lot. This coworker is not competent and he spend this time making jokes on other people.,2,This coworker is not competent and he spend this time making jokes on other people.,0
+631,87,annoyed,4,You should report him. Anonymously. You should't have to deal with that every day.,1,You should report him.,1
+632,87,annoyed,4,You should report him. Anonymously. You should't have to deal with that every day.,2,Anonymously.,1
+633,87,annoyed,4,You should report him. Anonymously. You should't have to deal with that every day.,3,You should't have to deal with that every day.,1
+634,88,caring,1,My daughter fell the other day pretty hard_comma_ I had to hold her until she calmed down.,1,My daughter fell the other day pretty hard_comma_ I had to hold her until she calmed down.,0
+635,88,caring,2,Oh no_comma_ that's scary_comma_ is she okay?,1,Oh no_comma_ that's scary_comma_ is she okay?,1
+636,88,caring,3,Yeah it wasnt too bad just a couple scrapes_comma_ its hard seeing your kids get hurt.,1,Yeah it wasnt too bad just a couple scrapes_comma_ its hard seeing your kids get hurt.,0
+637,88,caring,4,That's good_comma_ I'm glad it wasn't serious.,1,That's good_comma_ I'm glad it wasn't serious.,1
+638,89,annoyed,1,I really dislike my neighbors. They are the worst.,1,I really dislike my neighbors.,0
+639,89,annoyed,1,I really dislike my neighbors. They are the worst.,2,They are the worst.,0
+640,89,annoyed,2,What are they doing that is upsetting you?,1,What are they doing that is upsetting you?,1
+641,89,annoyed,3,They argue constantly and we live in apartments so I can hear everything. They even call the police a lot.,1,They argue constantly and we live in apartments so I can hear everything.,0
+642,89,annoyed,3,They argue constantly and we live in apartments so I can hear everything. They even call the police a lot.,2,They even call the police a lot.,0
+643,89,annoyed,4,Have you made a formal complaint against them yet?,1,Have you made a formal complaint against them yet?,1
+644,89,annoyed,5,Yes_comma_ but I think they know the landlord.,1,Yes_comma_ but I think they know the landlord.,0
+645,89,annoyed,6,You should report it to your local police department. Building and documenting this can help you.,1,You should report it to your local police department.,1
+646,89,annoyed,6,You should report it to your local police department. Building and documenting this can help you.,2,Building and documenting this can help you.,1
+647,90,furious,1,So last Friday I was driving home from work and this guy just cuts me off in traffic.,1,So last Friday I was driving home from work and this guy just cuts me off in traffic.,0
+648,90,furious,2,That happens a lot. What happened next?,1,That happens a lot.,1
+649,90,furious,2,That happens a lot. What happened next?,2,What happened next?,1
+650,90,furious,3,Well I to swerve onto the shoulder and almost caused a accident. Some people are just jerks on the road.,1,Well I to swerve onto the shoulder and almost caused a accident.,0
+651,90,furious,3,Well I to swerve onto the shoulder and almost caused a accident. Some people are just jerks on the road.,2,Some people are just jerks on the road.,0
+652,90,furious,4,I know the feeling. I hate driving now. Everyone is looking in their phone.,1,I know the feeling.,1
+653,90,furious,4,I know the feeling. I hate driving now. Everyone is looking in their phone.,2,I hate driving now.,1
+654,90,furious,4,I know the feeling. I hate driving now. Everyone is looking in their phone.,3,Everyone is looking in their phone.,1
+655,90,furious,5,Nothing upsets me more than seeing teenagers on their phones. It really boils my blood.,1,Nothing upsets me more than seeing teenagers on their phones.,0
+656,90,furious,5,Nothing upsets me more than seeing teenagers on their phones. It really boils my blood.,2,It really boils my blood.,0
+657,90,furious,6,I thnk the driving age should be raised to 21 personally,1,I thnk the driving age should be raised to 21 personally,1
+658,91,afraid,1,I was lost in a neighborhood I didn't know_comma_ when some guy came up to me and quietly asked if I needed a ride.,1,I was lost in a neighborhood I didn't know_comma_ when some guy came up to me and quietly asked if I needed a ride.,0
+659,91,afraid,2,Please tell me that he was friendly and nothing creepy!,1,Please tell me that he was friendly and nothing creepy!,1
+660,91,afraid,3,I wouldn't know. I defnitely didn't want to risk it and declined the offer!,1,I wouldn't know.,0
+661,91,afraid,3,I wouldn't know. I defnitely didn't want to risk it and declined the offer!,2,I defnitely didn't want to risk it and declined the offer!,0
+662,91,afraid,4,Thank god! LOL I was like please tell me this was a positive experience...,1,Thank god!,1
+663,91,afraid,4,Thank god! LOL I was like please tell me this was a positive experience...,2,LOL I was like please tell me this was a positive experience...,1
+664,91,afraid,5,Wasn't worth taking the chance to find out on that one haha. But it could've gotten bad_comma_ but I'm glad there were lots of cars passing by at the time.,1,Wasn't worth taking the chance to find out on that one haha.,0
+665,91,afraid,5,Wasn't worth taking the chance to find out on that one haha. But it could've gotten bad_comma_ but I'm glad there were lots of cars passing by at the time.,2,But it could've gotten bad_comma_ but I'm glad there were lots of cars passing by at the time.,0
+666,92,hopeful,1,So this is going to sound crazy but_comma_ one day I am going to win the lottery.,1,So this is going to sound crazy but_comma_ one day I am going to win the lottery.,0
+667,92,hopeful,2,That would pretty amazing. What will you do with the winning?,1,That would pretty amazing.,1
+668,92,hopeful,2,That would pretty amazing. What will you do with the winning?,2,What will you do with the winning?,1
+669,92,hopeful,3,Pay off my debts from moving number 1_comma_ and then buy a house! What would you do with the money?,1,Pay off my debts from moving number 1_comma_ and then buy a house!,0
+670,92,hopeful,3,Pay off my debts from moving number 1_comma_ and then buy a house! What would you do with the money?,2,What would you do with the money?,0
+671,92,hopeful,4,I think the same really. Making sure everything is paid off_comma_ having a roof over your head_comma_ etc... is what most people would want to take caer of first.,1,I think the same really.,1
+672,92,hopeful,4,I think the same really. Making sure everything is paid off_comma_ having a roof over your head_comma_ etc... is what most people would want to take caer of first.,2,Making sure everything is paid off_comma_ having a roof over your head_comma_ etc... is what most people would want to take caer of first.,1
+673,93,prepared,1,I will pass a examen next monday. I reviewed all the content for the course,1,I will pass a examen next monday.,0
+674,93,prepared,1,I will pass a examen next monday. I reviewed all the content for the course,2,I reviewed all the content for the course,0
+675,93,prepared,2,Good for you! Studying can be a real challenge sometimes.,1,Good for you!,1
+676,93,prepared,2,Good for you! Studying can be a real challenge sometimes.,2,Studying can be a real challenge sometimes.,1
+677,93,prepared,3,Yes_comma_ I feel ready. I can't wait to take that exam,1,Yes_comma_ I feel ready.,0
+678,93,prepared,3,Yes_comma_ I feel ready. I can't wait to take that exam,2,I can't wait to take that exam,0
+679,93,prepared,4,Awesome_comma_ that's the best way to go into exam. I'm sure you'll do great!,1,Awesome_comma_ that's the best way to go into exam.,1
+680,93,prepared,4,Awesome_comma_ that's the best way to go into exam. I'm sure you'll do great!,2,I'm sure you'll do great!,1
+681,94,grateful,1,Last month_comma_ my boss gave me a 10% raise_comma_ even though I didn't ask fo it. It was quite the welcome surprise!,1,Last month_comma_ my boss gave me a 10% raise_comma_ even though I didn't ask fo it.,0
+682,94,grateful,1,Last month_comma_ my boss gave me a 10% raise_comma_ even though I didn't ask fo it. It was quite the welcome surprise!,2,It was quite the welcome surprise!,0
+683,94,grateful,2,That is great. Probably he think that you are doing a great job.,1,That is great.,1
+684,94,grateful,2,That is great. Probably he think that you are doing a great job.,2,Probably he think that you are doing a great job.,1
+685,94,grateful,3,Yeah_comma_ we have always gotten along well_comma_ and he has always been very supportive of me.,1,Yeah_comma_ we have always gotten along well_comma_ and he has always been very supportive of me.,0
+686,94,grateful,4,That is good,1,That is good,1
+687,95,terrified,1,I've lost my job and am behind on my mortgage. It scares me that I could lose my home.,1,I've lost my job and am behind on my mortgage.,0
+688,95,terrified,1,I've lost my job and am behind on my mortgage. It scares me that I could lose my home.,2,It scares me that I could lose my home.,0
+689,95,terrified,2,That's awful_comma_ I'm sorry to hear that. I lost my job once as well and times got really hard. What kind of stuff are you doing to try and avoid that outcome?,1,That's awful_comma_ I'm sorry to hear that.,1
+690,95,terrified,2,That's awful_comma_ I'm sorry to hear that. I lost my job once as well and times got really hard. What kind of stuff are you doing to try and avoid that outcome?,2,I lost my job once as well and times got really hard.,1
+691,95,terrified,2,That's awful_comma_ I'm sorry to hear that. I lost my job once as well and times got really hard. What kind of stuff are you doing to try and avoid that outcome?,3,What kind of stuff are you doing to try and avoid that outcome?,1
+692,95,terrified,3,Thank you. I've been working odd and ends and am looking for a job that pays more of course. How did you overcome that time?,1,Thank you.,0
+693,95,terrified,3,Thank you. I've been working odd and ends and am looking for a job that pays more of course. How did you overcome that time?,2,I've been working odd and ends and am looking for a job that pays more of course.,0
+694,95,terrified,3,Thank you. I've been working odd and ends and am looking for a job that pays more of course. How did you overcome that time?,3,How did you overcome that time?,0
+695,95,terrified,4,Well_comma_ at the time I was holding out for a similar paying job like I had before but I could not find one and I ended up working fast food. I had to downsize my place as well.,1,Well_comma_ at the time I was holding out for a similar paying job like I had before but I could not find one and I ended up working fast food.,1
+696,95,terrified,4,Well_comma_ at the time I was holding out for a similar paying job like I had before but I could not find one and I ended up working fast food. I had to downsize my place as well.,2,I had to downsize my place as well.,1
+697,96,excited,1,Today is my birthday!,1,Today is my birthday!,0
+698,96,excited,2,HAPPY BIRTHDAY! Do you have any plans for today?,1,HAPPY BIRTHDAY!,1
+699,96,excited,2,HAPPY BIRTHDAY! Do you have any plans for today?,2,Do you have any plans for today?,1
+700,96,excited,3,Still recovering from a road trip but hopefully things will get exciting this weekend!,1,Still recovering from a road trip but hopefully things will get exciting this weekend!,0
+701,96,excited,4,That is really cool_comma_ Where did you guys on your trip?,1,That is really cool_comma_ Where did you guys on your trip?,1
+702,96,excited,5,New Orleans IT was great,1,New Orleans IT was great,0
+703,96,excited,6,I live in Texas so that it really close to me,1,I live in Texas so that it really close to me,1
+704,96,excited,7,Cool,1,Cool,0
+705,97,ashamed,1,So last week I was supposed to meet Mary and workout with her. But I kind of lied...,1,So last week I was supposed to meet Mary and workout with her.,0
+706,97,ashamed,1,So last week I was supposed to meet Mary and workout with her. But I kind of lied...,2,But I kind of lied...,0
+707,97,ashamed,2,Oh no. That's not right.,1,Oh no.,1
+708,97,ashamed,2,Oh no. That's not right.,2,That's not right.,1
+709,97,ashamed,3,I told her I had to go out of town and instead I just stayed home all day.,1,I told her I had to go out of town and instead I just stayed home all day.,0
+710,97,ashamed,4,Lol. Why didnt' you just reschedule?,1,Lol.,1
+711,97,ashamed,4,Lol. Why didnt' you just reschedule?,2,Why didnt' you just reschedule?,1
+712,97,ashamed,5,Because We do it everyother day and I did not want to seem lazy.,1,Because We do it everyother day and I did not want to seem lazy.,0
+713,97,ashamed,6,So you said you were going out of town. That's hilarious.,1,So you said you were going out of town.,1
+714,97,ashamed,6,So you said you were going out of town. That's hilarious.,2,That's hilarious.,1
+715,97,ashamed,7,Yeah I just kinda feel bad about doing it...,1,Yeah I just kinda feel bad about doing it...,0
+716,98,apprehensive,1,Recently someone offered me an extreme amount of money for a work at home job...,1,Recently someone offered me an extreme amount of money for a work at home job...,0
+717,98,apprehensive,2,wow! That's awesome! Did you accept the job offer?,1,wow!,1
+718,98,apprehensive,2,wow! That's awesome! Did you accept the job offer?,2,That's awesome!,1
+719,98,apprehensive,2,wow! That's awesome! Did you accept the job offer?,3,Did you accept the job offer?,1
+720,98,apprehensive,3,It sounded too good to be true honestly it made me feel a little uneasy... i had to turn it down!,1,It sounded too good to be true honestly it made me feel a little uneasy... i had to turn it down!,0
+721,98,apprehensive,4,yes_comma_ i understand. sometimes you just get a gut feeling that something isn't right,1,yes_comma_ i understand.,1
+722,98,apprehensive,4,yes_comma_ i understand. sometimes you just get a gut feeling that something isn't right,2,sometimes you just get a gut feeling that something isn't right,1
+723,99,surprised,1,so i applied for 200+ jobs and i can't believe i didn't hear from none of them!,1,so i applied for 200+ jobs and i can't believe i didn't hear from none of them!,0
+724,99,surprised,2,Bummer!!! Are you looking for a work at home job or just an outside job?,1,Bummer!!!,1
+725,99,surprised,2,Bummer!!! Are you looking for a work at home job or just an outside job?,2,Are you looking for a work at home job or just an outside job?,1
+726,99,surprised,3,just any job at this point. just a full time stable job,1,just any job at this point.,0
+727,99,surprised,3,just any job at this point. just a full time stable job,2,just a full time stable job,0
+728,99,surprised,4,I hear ya.. I hope you find one soon... wishing you all of the best!,1,I hear ya..,1
+729,99,surprised,4,I hear ya.. I hope you find one soon... wishing you all of the best!,2,I hope you find one soon... wishing you all of the best!,1
+730,99,surprised,5,thank you!,1,thank you!,0
+731,100,guilty,1,Last night I went into my kitchen and ate all of my kids cookies.,1,Last night I went into my kitchen and ate all of my kids cookies.,0
+732,100,guilty,2,I do that all of time.,1,I do that all of time.,1
+733,100,guilty,3,Well my wife confronted me this morning and I blamed it on our dog Max.,1,Well my wife confronted me this morning and I blamed it on our dog Max.,0
+734,100,guilty,4,Lol. Poor Max. I bet sometimes dogs wished the spoke English for that very reason.,1,Lol.,1
+735,100,guilty,4,Lol. Poor Max. I bet sometimes dogs wished the spoke English for that very reason.,2,Poor Max.,1
+736,100,guilty,4,Lol. Poor Max. I bet sometimes dogs wished the spoke English for that very reason.,3,I bet sometimes dogs wished the spoke English for that very reason.,1
+737,100,guilty,5,Yeah my wife had been kinda cold torwards him since. I feel bad for him..,1,Yeah my wife had been kinda cold torwards him since.,0
+738,100,guilty,5,Yeah my wife had been kinda cold torwards him since. I feel bad for him..,2,I feel bad for him..,0
+739,100,guilty,6,Shame on you. I'm telling,1,Shame on you.,1
+740,100,guilty,6,Shame on you. I'm telling,2,I'm telling,1
+741,101,lonely,1,I have lived in my apartment for 5 years now.,1,I have lived in my apartment for 5 years now.,0
+742,101,lonely,2,O wow that is a long time_comma_ Are you happy with it?,1,O wow that is a long time_comma_ Are you happy with it?,1
+743,101,lonely,3,It's getting smaller_comma_ but my friends used to come over more. Now I'm by myself all the time.,1,It's getting smaller_comma_ but my friends used to come over more.,0
+744,101,lonely,3,It's getting smaller_comma_ but my friends used to come over more. Now I'm by myself all the time.,2,Now I'm by myself all the time.,0
+745,101,lonely,4,Im sorry to hear that sometimes people grow apart. You should try to throw a party and see who comes.,1,Im sorry to hear that sometimes people grow apart.,1
+746,101,lonely,4,Im sorry to hear that sometimes people grow apart. You should try to throw a party and see who comes.,2,You should try to throw a party and see who comes.,1
+747,101,lonely,5,Sounds like a plan,1,Sounds like a plan,0
+748,102,lonely,1,I recently moved to my dream location_comma_ but it sucks not knowing anyone.,1,I recently moved to my dream location_comma_ but it sucks not knowing anyone.,0
+749,102,lonely,2,congratulations! I know_comma_ it probably feels lonely. Maybe you should do a party at your house and invite all the neighbours,1,congratulations!,1
+750,102,lonely,2,congratulations! I know_comma_ it probably feels lonely. Maybe you should do a party at your house and invite all the neighbours,2,I know_comma_ it probably feels lonely.,1
+751,102,lonely,2,congratulations! I know_comma_ it probably feels lonely. Maybe you should do a party at your house and invite all the neighbours,3,Maybe you should do a party at your house and invite all the neighbours,1
+752,102,lonely,3,That actually sounds like a really good idea! Thank you... now to decide what to cook.. lol,1,That actually sounds like a really good idea!,0
+753,102,lonely,3,That actually sounds like a really good idea! Thank you... now to decide what to cook.. lol,2,Thank you... now to decide what to cook.. lol,0
+754,102,lonely,4,you can't go wrong with some grilled food :) burgers_comma_ wings_comma_ hot dogs,1,you can't go wrong with some grilled food :) burgers_comma_ wings_comma_ hot dogs,1
+755,103,disgusted,1,so i saw a snake outside my apartment today_comma_ i hate snakes_comma_ so disgusting eww,1,so i saw a snake outside my apartment today_comma_ i hate snakes_comma_ so disgusting eww,0
+756,103,disgusted,2,I would have went running like forest gump - what did you do?,1,I would have went running like forest gump - what did you do?,1
+757,103,disgusted,3,went back inside the house and called animal control. it looked like a copperhead so i'm not messing with them,1,went back inside the house and called animal control.,0
+758,103,disgusted,3,went back inside the house and called animal control. it looked like a copperhead so i'm not messing with them,2,it looked like a copperhead so i'm not messing with them,0
+759,103,disgusted,4,Going to have to burn the whole house down now_comma_ and move... LOL just joking!,1,Going to have to burn the whole house down now_comma_ and move... LOL just joking!,1
+760,103,disgusted,5,i totally would. lol i hate snakes and bugs and spiders,1,i totally would.,0
+761,103,disgusted,5,i totally would. lol i hate snakes and bugs and spiders,2,lol i hate snakes and bugs and spiders,0
+762,104,sad,1,So they just posted online about how they are not making a sequel to Hot Fuzz.,1,So they just posted online about how they are not making a sequel to Hot Fuzz.,0
+763,104,sad,2,Oh no. Did they say why?,1,Oh no.,1
+764,104,sad,2,Oh no. Did they say why?,2,Did they say why?,1
+765,104,sad,3,I guess it just did not get enough funding. It just sucks because it is my favorite movie.,1,I guess it just did not get enough funding.,0
+766,104,sad,3,I guess it just did not get enough funding. It just sucks because it is my favorite movie.,2,It just sucks because it is my favorite movie.,0
+767,104,sad,4,Hopefully it might be reconsidered later on.,1,Hopefully it might be reconsidered later on.,1
+768,104,sad,5,That is what im thinking but you can never tell with these things.,1,That is what im thinking but you can never tell with these things.,0
+769,105,proud,1,I was able to save a blind lady from falling down an escalator.,1,I was able to save a blind lady from falling down an escalator.,0
+770,105,proud,2,Is she ok? Im glad you were close by!,1,Is she ok?,1
+771,105,proud,2,Is she ok? Im glad you were close by!,2,Im glad you were close by!,1
+772,105,proud,3,She was very alarmed and rightfully so. I'm usually not a nice person_comma_ but I'm glad I did the right thing that time!,1,She was very alarmed and rightfully so.,0
+773,105,proud,3,She was very alarmed and rightfully so. I'm usually not a nice person_comma_ but I'm glad I did the right thing that time!,2,I'm usually not a nice person_comma_ but I'm glad I did the right thing that time!,0
+774,105,proud,4,That is really cool of you to do_comma_ Did anyone else see it happen?,1,That is really cool of you to do_comma_ Did anyone else see it happen?,1
+775,106,furious,1,I am so sick of my job not paying us for the proper amount of hours!,1,I am so sick of my job not paying us for the proper amount of hours!,0
+776,106,furious,2,That's terrible. Employers just don't value their employees sometimes.,1,That's terrible.,1
+777,106,furious,2,That's terrible. Employers just don't value their employees sometimes.,2,Employers just don't value their employees sometimes.,1
+778,106,furious,3,It seems like it doesnt it.. i hope it gets better.,1,It seems like it doesnt it.. i hope it gets better.,0
+779,106,furious,4,I hope so_comma_ too. Have you considered working elsewhere?,1,I hope so_comma_ too.,1
+780,106,furious,4,I hope so_comma_ too. Have you considered working elsewhere?,2,Have you considered working elsewhere?,1
+781,107,ashamed,1,I was mowing the lawn_comma_ and a rock flew and broke my neighbor's window.,1,I was mowing the lawn_comma_ and a rock flew and broke my neighbor's window.,0
+782,107,ashamed,2,Oh no... were they relaxed about it or did it cause a problem?,1,Oh no... were they relaxed about it or did it cause a problem?,1
+783,107,ashamed,3,They didn't even know what happened_comma_ but I got myself to let them know although I was terribly scared of the expenses.,1,They didn't even know what happened_comma_ but I got myself to let them know although I was terribly scared of the expenses.,0
+784,107,ashamed,4,Well glad they didnt freak out on you_comma_ some people arent as understanding. I bet it was pricey.,1,Well glad they didnt freak out on you_comma_ some people arent as understanding.,1
+785,107,ashamed,4,Well glad they didnt freak out on you_comma_ some people arent as understanding. I bet it was pricey.,2,I bet it was pricey.,1
+786,108,confident,1,I hadn't worn a bathing suit in maybe 5 uears until recently.,1,I hadn't worn a bathing suit in maybe 5 uears until recently.,0
+787,108,confident,2,Why is that?,1,Why is that?,1
+788,108,confident,3,I had gained a little weight and got embarassed.,1,I had gained a little weight and got embarassed.,0
+789,108,confident,4,Well I just bought a great bathing suit that covers up all the extras but still shows a little skin and makes me feel good. Maybe that will work for you.,1,Well I just bought a great bathing suit that covers up all the extras but still shows a little skin and makes me feel good.,1
+790,108,confident,4,Well I just bought a great bathing suit that covers up all the extras but still shows a little skin and makes me feel good. Maybe that will work for you.,2,Maybe that will work for you.,1
+791,108,confident,5,I have one now. I saw a bunch of ladies strutting in their suits and iy boosted my confidence. I had a ball at the beach the next day.,1,I have one now.,0
+792,108,confident,5,I have one now. I saw a bunch of ladies strutting in their suits and iy boosted my confidence. I had a ball at the beach the next day.,2,I saw a bunch of ladies strutting in their suits and iy boosted my confidence.,0
+793,108,confident,5,I have one now. I saw a bunch of ladies strutting in their suits and iy boosted my confidence. I had a ball at the beach the next day.,3,I had a ball at the beach the next day.,0
+794,108,confident,6,That's good to hear. Where did you get it from?,1,That's good to hear.,1
+795,108,confident,6,That's good to hear. Where did you get it from?,2,Where did you get it from?,1
+796,108,confident,7,Online. I can't say the store name. I won't allow me,1,Online.,0
+797,108,confident,7,Online. I can't say the store name. I won't allow me,2,I can't say the store name.,0
+798,108,confident,7,Online. I can't say the store name. I won't allow me,3,I won't allow me,0
+799,108,confident,8,I gotcha. I bought mine online too.,1,I gotcha.,1
+800,108,confident,8,I gotcha. I bought mine online too.,2,I bought mine online too.,1
+801,109,sad,1,My grandmother passed away unexpectedly a few years ago.,1,My grandmother passed away unexpectedly a few years ago.,0
+802,109,sad,2,oh no sorry to hear that. I just lost mine in November. It's hard.,1,oh no sorry to hear that.,1
+803,109,sad,2,oh no sorry to hear that. I just lost mine in November. It's hard.,2,I just lost mine in November.,1
+804,109,sad,2,oh no sorry to hear that. I just lost mine in November. It's hard.,3,It's hard.,1
+805,109,sad,3,Yes it is. She was the grandparent I was closest to.,1,Yes it is.,0
+806,109,sad,3,Yes it is. She was the grandparent I was closest to.,2,She was the grandparent I was closest to.,0
+807,109,sad,4,People say it gets easier. I'm still waiting for that part.,1,People say it gets easier.,1
+808,109,sad,4,People say it gets easier. I'm still waiting for that part.,2,I'm still waiting for that part.,1
+809,109,sad,5,Yes_comma_ I believe that time is the best way to heal.,1,Yes_comma_ I believe that time is the best way to heal.,0
+810,109,sad,6,I hope so. Nice chatting with you.,1,I hope so.,1
+811,109,sad,6,I hope so. Nice chatting with you.,2,Nice chatting with you.,1
+812,109,sad,7,You as well. Have a great day.,1,You as well.,0
+813,109,sad,7,You as well. Have a great day.,2,Have a great day.,0
+814,110,guilty,1,I wish I could work less.. i feel so bad that i dont get to spend as much time with my daughter.,1,I wish I could work less.. i feel so bad that i dont get to spend as much time with my daughter.,0
+815,110,guilty,2,I hear ya. Anyway to get a new job?,1,I hear ya.,1
+816,110,guilty,2,I hear ya. Anyway to get a new job?,2,Anyway to get a new job?,1
+817,110,guilty,3,Ive been trying what I really need is a higher paid one so that way I dont have to work 2 jobs.,1,Ive been trying what I really need is a higher paid one so that way I dont have to work 2 jobs.,0
+818,110,guilty,4,Got ya. What kind of work do you currently do?,1,Got ya.,1
+819,110,guilty,4,Got ya. What kind of work do you currently do?,2,What kind of work do you currently do?,1
+820,111,disgusted,1,My friend called someone a bad name_comma_ he really mad me upset.,1,My friend called someone a bad name_comma_ he really mad me upset.,0
+821,111,disgusted,2,I dont like rude people either did you tell him?,1,I dont like rude people either did you tell him?,1
+822,111,disgusted,3,I did and then we got into a argument about it.,1,I did and then we got into a argument about it.,0
+823,111,disgusted,4,Oh god.. give it a few days and then try to sort it out!,1,Oh god.. give it a few days and then try to sort it out!,1
+824,112,annoyed,1,My fence is collapsing at areas where my neighbors keep climbing over to get their ball. It's going to be expensive to fix.,1,My fence is collapsing at areas where my neighbors keep climbing over to get their ball.,0
+825,112,annoyed,1,My fence is collapsing at areas where my neighbors keep climbing over to get their ball. It's going to be expensive to fix.,2,It's going to be expensive to fix.,0
+826,112,annoyed,2,Oh yeah I am sure it is.. have you talked to them about paying for it?,1,Oh yeah I am sure it is.. have you talked to them about paying for it?,1
+827,112,annoyed,3,I'm afraid to unfortunately. They broke the window once_comma_ and I had to get police involved.,1,I'm afraid to unfortunately.,0
+828,112,annoyed,3,I'm afraid to unfortunately. They broke the window once_comma_ and I had to get police involved.,2,They broke the window once_comma_ and I had to get police involved.,0
+829,112,annoyed,4,That really sucks.. i guess all you can do is get a metal type of fence or maybe one with spikes! ( lol ),1,That really sucks.. i guess all you can do is get a metal type of fence or maybe one with spikes!,1
+830,112,annoyed,4,That really sucks.. i guess all you can do is get a metal type of fence or maybe one with spikes! ( lol ),2,( lol ),1
+831,113,anxious,1,I cant wait to relocate and move again. I am so ready.,1,I cant wait to relocate and move again.,0
+832,113,anxious,1,I cant wait to relocate and move again. I am so ready.,2,I am so ready.,0
+833,113,anxious,2,Wow! Have you been to many places?,1,Wow!,1
+834,113,anxious,2,Wow! Have you been to many places?,2,Have you been to many places?,1
+835,113,anxious,3,New York_comma_ VA_comma_ FL... how about you?,1,New York_comma_ VA_comma_ FL... how about you?,0
+836,113,anxious,4,I've been in the same place. DC and then its neighbor_comma_ MD.,1,I've been in the same place.,1
+837,113,anxious,4,I've been in the same place. DC and then its neighbor_comma_ MD.,2,DC and then its neighbor_comma_ MD.,1
+838,114,surprised,1,My brother usually doesn't do anything for me unless asked. After 3 decades_comma_ he actually took me out for my birthday.,1,My brother usually doesn't do anything for me unless asked.,0
+839,114,surprised,1,My brother usually doesn't do anything for me unless asked. After 3 decades_comma_ he actually took me out for my birthday.,2,After 3 decades_comma_ he actually took me out for my birthday.,0
+840,114,surprised,2,MY brothers are the same way. At least yours ginally came around.,1,MY brothers are the same way.,1
+841,114,surprised,2,MY brothers are the same way. At least yours ginally came around.,2,At least yours ginally came around.,1
+842,114,surprised,3,haha siblings! How many brothers do you have?,1,haha siblings!,0
+843,114,surprised,3,haha siblings! How many brothers do you have?,2,How many brothers do you have?,0
+844,114,surprised,4,two younger ones. They only call when they want something. my older sister is the same. I'm the good one.,1,two younger ones.,1
+845,114,surprised,4,two younger ones. They only call when they want something. my older sister is the same. I'm the good one.,2,They only call when they want something.,1
+846,114,surprised,4,two younger ones. They only call when they want something. my older sister is the same. I'm the good one.,3,my older sister is the same.,1
+847,114,surprised,4,two younger ones. They only call when they want something. my older sister is the same. I'm the good one.,4,I'm the good one.,1
+848,115,disappointed,1,Today is my birthday and I got a call yesterday wishing me a happy birthfay from my ex.,1,Today is my birthday and I got a call yesterday wishing me a happy birthfay from my ex.,0
+849,115,disappointed,2,Happy Birthday! Is the call from the ex a good or bad thing?,1,Happy Birthday!,1
+850,115,disappointed,2,Happy Birthday! Is the call from the ex a good or bad thing?,2,Is the call from the ex a good or bad thing?,1
+851,115,disappointed,3,Thanks. It wouldve been a good thing if he didn't call last month to tell me happy birthday also. He should know when my birthday is after 11 years lol,1,Thanks.,0
+852,115,disappointed,3,Thanks. It wouldve been a good thing if he didn't call last month to tell me happy birthday also. He should know when my birthday is after 11 years lol,2,It wouldve been a good thing if he didn't call last month to tell me happy birthday also.,0
+853,115,disappointed,3,Thanks. It wouldve been a good thing if he didn't call last month to tell me happy birthday also. He should know when my birthday is after 11 years lol,3,He should know when my birthday is after 11 years lol,0
+854,115,disappointed,4,Exes are exes for a reason I guess lol.,1,Exes are exes for a reason I guess lol.,1
+855,115,disappointed,5,Aint that the truth!!!,1,Aint that the truth!!,0
+856,115,disappointed,5,Aint that the truth!!!,2,!,0
+857,116,afraid,1,I went to the optometrist_comma_ and my prescription got strong. She warned me about being at risk for losing my vision.,1,I went to the optometrist_comma_ and my prescription got strong.,0
+858,116,afraid,1,I went to the optometrist_comma_ and my prescription got strong. She warned me about being at risk for losing my vision.,2,She warned me about being at risk for losing my vision.,0
+859,116,afraid,2,That's not good. I know my eyes hurt when staring at the bright white screen on computers . So I change them to a darker color when possible.,1,That's not good.,1
+860,116,afraid,2,That's not good. I know my eyes hurt when staring at the bright white screen on computers . So I change them to a darker color when possible.,2,I know my eyes hurt when staring at the bright white screen on computers .,1
+861,116,afraid,2,That's not good. I know my eyes hurt when staring at the bright white screen on computers . So I change them to a darker color when possible.,3,So I change them to a darker color when possible.,1
+862,116,afraid,3,Oh yes. That is smart. After the warning_comma_ I use the screen dimming program called f.lux.,1,Oh yes.,0
+863,116,afraid,3,Oh yes. That is smart. After the warning_comma_ I use the screen dimming program called f.lux.,2,That is smart.,0
+864,116,afraid,3,Oh yes. That is smart. After the warning_comma_ I use the screen dimming program called f.lux.,3,After the warning_comma_ I use the screen dimming program called f.lux.,0
+865,116,afraid,4,Haven't tried that yet_comma_ but I have heard of it. I will check it out. thanks !,1,Haven't tried that yet_comma_ but I have heard of it.,1
+866,116,afraid,4,Haven't tried that yet_comma_ but I have heard of it. I will check it out. thanks !,2,I will check it out.,1
+867,116,afraid,4,Haven't tried that yet_comma_ but I have heard of it. I will check it out. thanks !,3,thanks !,1
+868,117,nostalgic,1,My old high school is being sold and turned into an old people's apartment complex. Sad to see it go.,1,My old high school is being sold and turned into an old people's apartment complex.,0
+869,117,nostalgic,1,My old high school is being sold and turned into an old people's apartment complex. Sad to see it go.,2,Sad to see it go.,0
+870,117,nostalgic,2,Nostalgia. Is there another HS nearby for the kids to go to?,1,Nostalgia.,1
+871,117,nostalgic,2,Nostalgia. Is there another HS nearby for the kids to go to?,2,Is there another HS nearby for the kids to go to?,1
+872,117,nostalgic,3,Yes_comma_ They consolidated and it's awful. The kids now have a thirty minute bus ride one way to school.,1,Yes_comma_ They consolidated and it's awful.,0
+873,117,nostalgic,3,Yes_comma_ They consolidated and it's awful. The kids now have a thirty minute bus ride one way to school.,2,The kids now have a thirty minute bus ride one way to school.,0
+874,117,nostalgic,4,That's pretty terrible. Thirty minutes in a day pretty much just commuting one way. School is already tough.,1,That's pretty terrible.,1
+875,117,nostalgic,4,That's pretty terrible. Thirty minutes in a day pretty much just commuting one way. School is already tough.,2,Thirty minutes in a day pretty much just commuting one way.,1
+876,117,nostalgic,4,That's pretty terrible. Thirty minutes in a day pretty much just commuting one way. School is already tough.,3,School is already tough.,1
+877,117,nostalgic,5,I know. We have a lot of snow in the winter too. So it's dangerous also.,1,I know.,0
+878,117,nostalgic,5,I know. We have a lot of snow in the winter too. So it's dangerous also.,2,We have a lot of snow in the winter too.,0
+879,117,nostalgic,5,I know. We have a lot of snow in the winter too. So it's dangerous also.,3,So it's dangerous also.,0
+880,118,grateful,1,It was my birthday and my mother came to surprise me.,1,It was my birthday and my mother came to surprise me.,0
+881,118,grateful,2,Aw thats so nice_comma_ how did she surprise you?,1,Aw thats so nice_comma_ how did she surprise you?,1
+882,118,grateful,3,She showed up to my house and brought me a cake.,1,She showed up to my house and brought me a cake.,0
+883,118,grateful,4,Cakes! yessss winning. :),1,Cakes!,1
+884,118,grateful,4,Cakes! yessss winning. :),2,yessss winning.,1
+885,118,grateful,4,Cakes! yessss winning. :),3,:),1
+886,119,devastated,1,I still remember the day i had to say goodbye to my dad. :(,1,I still remember the day i had to say goodbye to my dad.,0
+887,119,devastated,1,I still remember the day i had to say goodbye to my dad. :(,2,:(,0
+888,119,devastated,2,Thats too bad. What happened?,1,Thats too bad.,1
+889,119,devastated,2,Thats too bad. What happened?,2,What happened?,1
+890,119,devastated,3,He had a heat stroke in the middle of July.,1,He had a heat stroke in the middle of July.,0
+891,119,devastated,4,Thats horrible. Sorry to hear.,1,Thats horrible.,1
+892,119,devastated,4,Thats horrible. Sorry to hear.,2,Sorry to hear.,1
+893,120,joyful,1,Today is my birthday! I think tonight we are all going out.,1,Today is my birthday!,0
+894,120,joyful,1,Today is my birthday! I think tonight we are all going out.,2,I think tonight we are all going out.,0
+895,120,joyful,2,Awesome! Happy Birthday to you! Where are you going?,1,Awesome!,1
+896,120,joyful,2,Awesome! Happy Birthday to you! Where are you going?,2,Happy Birthday to you!,1
+897,120,joyful,2,Awesome! Happy Birthday to you! Where are you going?,3,Where are you going?,1
+898,120,joyful,3,I think to a amusment park but im not sure!,1,I think to a amusment park but im not sure!,0
+899,120,joyful,4,That seriously sounds like the best birthday ever... i hope you guys have an awesome time.,1,That seriously sounds like the best birthday ever... i hope you guys have an awesome time.,1
+900,120,joyful,5,Thank you! I hope you have a good dau.,1,Thank you!,0
+901,120,joyful,5,Thank you! I hope you have a good dau.,2,I hope you have a good dau.,0
+902,121,prepared,1,It was insane getting ready for hurricane IRMA to hit last year....,1,It was insane getting ready for hurricane IRMA to hit last year....,0
+903,121,prepared,2,Did you get hit my it? I bet that was scary.,1,Did you get hit my it?,1
+904,121,prepared,2,Did you get hit my it? I bet that was scary.,2,I bet that was scary.,1
+905,121,prepared,3,We did but it wasnt too bad_comma_ not as bad as the news made it out to sound.,1,We did but it wasnt too bad_comma_ not as bad as the news made it out to sound.,0
+906,121,prepared,4,Im glad you are ok_comma_ How is your community.,1,Im glad you are ok_comma_ How is your community.,1
+907,122,impressed,1,My neighbor went back to school at 59. She just got her bachelor's this year.,1,My neighbor went back to school at 59.,0
+908,122,impressed,1,My neighbor went back to school at 59. She just got her bachelor's this year.,2,She just got her bachelor's this year.,0
+909,122,impressed,2,Wow that's awesome. I went back at 31. Still going.,1,Wow that's awesome.,1
+910,122,impressed,2,Wow that's awesome. I went back at 31. Still going.,2,I went back at 31.,1
+911,122,impressed,2,Wow that's awesome. I went back at 31. Still going.,3,Still going.,1
+912,122,impressed,3,Yea. She's a pretty amazing lady to do that and inspirational of course. What are you in school for?,1,Yea.,0
+913,122,impressed,3,Yea. She's a pretty amazing lady to do that and inspirational of course. What are you in school for?,2,She's a pretty amazing lady to do that and inspirational of course.,0
+914,122,impressed,3,Yea. She's a pretty amazing lady to do that and inspirational of course. What are you in school for?,3,What are you in school for?,0
+915,122,impressed,4,I am studying Criminal Justice now. Hopefully I will be done soon.,1,I am studying Criminal Justice now.,1
+916,122,impressed,4,I am studying Criminal Justice now. Hopefully I will be done soon.,2,Hopefully I will be done soon.,1
+917,123,sad,1,It makes me sad to be single nowadays.,1,It makes me sad to be single nowadays.,0
+918,123,sad,2,Did you go through a breakup recently?,1,Did you go through a breakup recently?,1
+919,123,sad,3,IF two years is recent lol. Today is my birthday and I don't want to cook.,1,IF two years is recent lol.,0
+920,123,sad,3,IF two years is recent lol. Today is my birthday and I don't want to cook.,2,Today is my birthday and I don't want to cook.,0
+921,123,sad,4,Happy Birthday! Well_comma_ you can order out of course.,1,Happy Birthday!,1
+922,123,sad,4,Happy Birthday! Well_comma_ you can order out of course.,2,Well_comma_ you can order out of course.,1
+923,123,sad,5,I think I will.,1,I think I will.,0
+924,124,faithful,1,My friend's boyfriend got into an accident 5 years ago. She's still with him.,1,My friend's boyfriend got into an accident 5 years ago.,0
+925,124,faithful,1,My friend's boyfriend got into an accident 5 years ago. She's still with him.,2,She's still with him.,0
+926,124,faithful,2,What happened to him? How are they doing?,1,What happened to him?,1
+927,124,faithful,2,What happened to him? How are they doing?,2,How are they doing?,1
+928,124,faithful,3,Got into a motorcycle accident and is now paraplegic. They're doing just fine! He's got his pride issues_comma_ but she's sticking with him.,1,Got into a motorcycle accident and is now paraplegic.,0
+929,124,faithful,3,Got into a motorcycle accident and is now paraplegic. They're doing just fine! He's got his pride issues_comma_ but she's sticking with him.,2,They're doing just fine!,0
+930,124,faithful,3,Got into a motorcycle accident and is now paraplegic. They're doing just fine! He's got his pride issues_comma_ but she's sticking with him.,3,He's got his pride issues_comma_ but she's sticking with him.,0
+931,124,faithful,4,That is understanable_comma_ I would be the same way.,1,That is understanable_comma_ I would be the same way.,1
+932,125,afraid,1,So last night a cop pulled me over.,1,So last night a cop pulled me over.,0
+933,125,afraid,2,Oh man. What happened?,1,Oh man.,1
+934,125,afraid,2,Oh man. What happened?,2,What happened?,1
+935,125,afraid,3,He said I was speeding but I was really nervous.,1,He said I was speeding but I was really nervous.,0
+936,125,afraid,4,Did you end up getting a ticket?,1,Did you end up getting a ticket?,1
+937,125,afraid,5,No he let me off with a warning.,1,No he let me off with a warning.,0
+938,126,lonely,1,I've been taking care of my aging mom for 5 years now and don't really have any friends_comma_ since so much time is used taking care of her.,1,I've been taking care of my aging mom for 5 years now and don't really have any friends_comma_ since so much time is used taking care of her.,0
+939,126,lonely,2,That is a nice thing you are doing for her though. Maybe you could hire somebody for a few hours a week and join a gym or yoga class.,1,That is a nice thing you are doing for her though.,1
+940,126,lonely,2,That is a nice thing you are doing for her though. Maybe you could hire somebody for a few hours a week and join a gym or yoga class.,2,Maybe you could hire somebody for a few hours a week and join a gym or yoga class.,1
+941,126,lonely,3,Thank you. Can't afford outside help unfortunatley. Yes. I have picked up exercising though.,1,Thank you.,0
+942,126,lonely,3,Thank you. Can't afford outside help unfortunatley. Yes. I have picked up exercising though.,2,Can't afford outside help unfortunatley.,0
+943,126,lonely,3,Thank you. Can't afford outside help unfortunatley. Yes. I have picked up exercising though.,3,Yes.,0
+944,126,lonely,3,Thank you. Can't afford outside help unfortunatley. Yes. I have picked up exercising though.,4,I have picked up exercising though.,0
+945,126,lonely,4,Go to a walking path or park. Maybe to a dog park also.,1,Go to a walking path or park.,1
+946,126,lonely,4,Go to a walking path or park. Maybe to a dog park also.,2,Maybe to a dog park also.,1
+947,127,guilty,1,A little baby turtle was crossing the road the other day and I was in a hurry and didn't stop and help him. I hope he made it. I usually stop and take them to a creek away from the road. Darn!,1,A little baby turtle was crossing the road the other day and I was in a hurry and didn't stop and help him.,0
+948,127,guilty,1,A little baby turtle was crossing the road the other day and I was in a hurry and didn't stop and help him. I hope he made it. I usually stop and take them to a creek away from the road. Darn!,2,I hope he made it.,0
+949,127,guilty,1,A little baby turtle was crossing the road the other day and I was in a hurry and didn't stop and help him. I hope he made it. I usually stop and take them to a creek away from the road. Darn!,3,I usually stop and take them to a creek away from the road.,0
+950,127,guilty,1,A little baby turtle was crossing the road the other day and I was in a hurry and didn't stop and help him. I hope he made it. I usually stop and take them to a creek away from the road. Darn!,4,Darn!,0
+951,127,guilty,2,Can't always help unfortunately. I hope the little guy made it_comma_ too!,1,Can't always help unfortunately.,1
+952,127,guilty,2,Can't always help unfortunately. I hope the little guy made it_comma_ too!,2,I hope the little guy made it_comma_ too!,1
+953,127,guilty,3,They're so pitiful with their little heads up _comma_ like where are you mom_comma_ where did you go.,1,They're so pitiful with their little heads up _comma_ like where are you mom_comma_ where did you go.,0
+954,127,guilty,4,I wonder how they get all the way to the road away from the other turtles!,1,I wonder how they get all the way to the road away from the other turtles!,1
+955,127,guilty,5,They come down a mountain and the creek is on the opposite side of the road I believe,1,They come down a mountain and the creek is on the opposite side of the road I believe,0
+956,128,sad,1,My mom has arthritis in her neck_comma_ and the pain seems to be traveling down now.,1,My mom has arthritis in her neck_comma_ and the pain seems to be traveling down now.,0
+957,128,sad,2,I am sorry to hear that.. is there any physical therapy that can help her?,1,I am sorry to hear that.. is there any physical therapy that can help her?,1
+958,128,sad,3,The doctor just recommended exercise. I'm not sure if they were just busy to do anymore for her or if exercise is the best.,1,The doctor just recommended exercise.,0
+959,128,sad,3,The doctor just recommended exercise. I'm not sure if they were just busy to do anymore for her or if exercise is the best.,2,I'm not sure if they were just busy to do anymore for her or if exercise is the best.,0
+960,128,sad,4,Usually moving your body helps but it depends on her situation... i would get a 2nd opinion!,1,Usually moving your body helps but it depends on her situation... i would get a 2nd opinion!,1
+961,129,anxious,1,I am so impatient right now... waiting for the clock to hit 5 so I can go on vacation!,1,I am so impatient right now... waiting for the clock to hit 5 so I can go on vacation!,0
+962,129,anxious,2,How many hours do you have left?,1,How many hours do you have left?,1
+963,129,anxious,3,4 hours to go! ahhh,1,4 hours to go!,0
+964,129,anxious,3,4 hours to go! ahhh,2,ahhh,0
+965,129,anxious,4,haha not bad! where are you going on vacation?,1,haha not bad!,1
+966,129,anxious,4,haha not bad! where are you going on vacation?,2,where are you going on vacation?,1
+967,130,confident,1,So my boss sent me over to close the deal with the Mr Harris. I felt so happy closeing a big client like that.,1,So my boss sent me over to close the deal with the Mr Harris.,0
+968,130,confident,1,So my boss sent me over to close the deal with the Mr Harris. I felt so happy closeing a big client like that.,2,I felt so happy closeing a big client like that.,0
+969,130,confident,2,Thats great_comma_ was the result good?,1,Thats great_comma_ was the result good?,1
+970,130,confident,3,He signed right away and we had a drink to celebrate.,1,He signed right away and we had a drink to celebrate.,0
+971,130,confident,4,That's great. How happy were you?,1,That's great.,1
+972,130,confident,4,That's great. How happy were you?,2,How happy were you?,1
+973,130,confident,5,Well lets just say I think im going to get that bonus.,1,Well lets just say I think im going to get that bonus.,0
+974,131,afraid,1,I was in the woods and a snake came out of no where.,1,I was in the woods and a snake came out of no where.,0
+975,131,afraid,2,Did it bite you? Are you ok?,1,Did it bite you?,1
+976,131,afraid,2,Did it bite you? Are you ok?,2,Are you ok?,1
+977,131,afraid,3,Luckily it did not. I was fine just scared.,1,Luckily it did not.,0
+978,131,afraid,3,Luckily it did not. I was fine just scared.,2,I was fine just scared.,0
+979,131,afraid,4,Im glad you are ok. Some of those are poisonous and can kill.,1,Im glad you are ok.,1
+980,131,afraid,4,Im glad you are ok. Some of those are poisonous and can kill.,2,Some of those are poisonous and can kill.,1
+981,132,proud,1,My mom went back to school at 63 and recently got her bachelor's in computer science!,1,My mom went back to school at 63 and recently got her bachelor's in computer science!,0
+982,132,proud,2,Wow That's amazing. You must be very proud of her.  I think coding_comma_ etc_comma_ seems very hard.,1,Wow That's amazing.,1
+983,132,proud,2,Wow That's amazing. You must be very proud of her.  I think coding_comma_ etc_comma_ seems very hard.,2,You must be very proud of her.,1
+984,132,proud,2,Wow That's amazing. You must be very proud of her.  I think coding_comma_ etc_comma_ seems very hard.,3,I think coding_comma_ etc_comma_ seems very hard.,1
+985,132,proud,3,Yea. I mean I can't even code. And there goes my mom who didn't even know a browser was_comma_ now coding!,1,Yea.,0
+986,132,proud,3,Yea. I mean I can't even code. And there goes my mom who didn't even know a browser was_comma_ now coding!,2,I mean I can't even code.,0
+987,132,proud,3,Yea. I mean I can't even code. And there goes my mom who didn't even know a browser was_comma_ now coding!,3,And there goes my mom who didn't even know a browser was_comma_ now coding!,0
+988,132,proud,4,Very inspirational story. They make good money too.,1,Very inspirational story.,1
+989,132,proud,4,Very inspirational story. They make good money too.,2,They make good money too.,1
+990,133,grateful,1,I finally finished my Phlebotomy class . It was an hour's drive one way_comma_ but thankfully it's over and a hospital nearby is hiring I heard. Whew!,1,I finally finished my Phlebotomy class .,0
+991,133,grateful,1,I finally finished my Phlebotomy class . It was an hour's drive one way_comma_ but thankfully it's over and a hospital nearby is hiring I heard. Whew!,2,It was an hour's drive one way_comma_ but thankfully it's over and a hospital nearby is hiring I heard.,0
+992,133,grateful,1,I finally finished my Phlebotomy class . It was an hour's drive one way_comma_ but thankfully it's over and a hospital nearby is hiring I heard. Whew!,3,Whew!,0
+993,133,grateful,2,That's amazing! How do you anticipate dealing with people who are afraid of needles?,1,That's amazing!,1
+994,133,grateful,2,That's amazing! How do you anticipate dealing with people who are afraid of needles?,2,How do you anticipate dealing with people who are afraid of needles?,1
+995,133,grateful,3,I would probably tell them to look the other way and that it really isn't very painful.,1,I would probably tell them to look the other way and that it really isn't very painful.,0
+996,133,grateful,4,That's good thinking. I hope you won't get too many who are afraid!,1,That's good thinking.,1
+997,133,grateful,4,That's good thinking. I hope you won't get too many who are afraid!,2,I hope you won't get too many who are afraid!,1
+998,133,grateful,5,Or pass out on me_comma_ lol. Thanks,1,Or pass out on me_comma_ lol.,0
+999,133,grateful,5,Or pass out on me_comma_ lol. Thanks,2,Thanks,0
+1000,134,anticipating,1,Had a interview yesterday. I think it went pretty well. I hope I get the job.,1,Had a interview yesterday.,0
+1001,134,anticipating,1,Had a interview yesterday. I think it went pretty well. I hope I get the job.,2,I think it went pretty well.,0
+1002,134,anticipating,1,Had a interview yesterday. I think it went pretty well. I hope I get the job.,3,I hope I get the job.,0
+1003,134,anticipating,2,Thats good. Make sure you follow up.,1,Thats good.,1
+1004,134,anticipating,2,Thats good. Make sure you follow up.,2,Make sure you follow up.,1
+1005,134,anticipating,3,Thank you. I did actually. The recruiter sounded pretty positive on the phone.,1,Thank you.,0
+1006,134,anticipating,3,Thank you. I did actually. The recruiter sounded pretty positive on the phone.,2,I did actually.,0
+1007,134,anticipating,3,Thank you. I did actually. The recruiter sounded pretty positive on the phone.,3,The recruiter sounded pretty positive on the phone.,0
+1008,134,anticipating,4,That's great. Would this be a good job?,1,That's great.,1
+1009,134,anticipating,4,That's great. Would this be a good job?,2,Would this be a good job?,1
+1010,135,hopeful,1,I bought a lottery ticket and have a feeling I will win.,1,I bought a lottery ticket and have a feeling I will win.,0
+1011,135,hopeful,2,Good luck! I hope you'll win!,1,Good luck!,1
+1012,135,hopeful,2,Good luck! I hope you'll win!,2,I hope you'll win!,1
+1013,135,hopeful,3,I know my chances are not good but maybe I can get lucky.,1,I know my chances are not good but maybe I can get lucky.,0
+1014,135,hopeful,4,Well_comma_ you never know. It's nice to think what you can do with the money though.,1,Well_comma_ you never know.,1
+1015,135,hopeful,4,Well_comma_ you never know. It's nice to think what you can do with the money though.,2,It's nice to think what you can do with the money though.,1
+1016,136,sad,1,My birthday was last weekend_comma_ and no one wished me a Happy Birthday.,1,My birthday was last weekend_comma_ and no one wished me a Happy Birthday.,0
+1017,136,sad,2,I'm so sorry to hear that. How sad for you.,1,I'm so sorry to hear that.,1
+1018,136,sad,2,I'm so sorry to hear that. How sad for you.,2,How sad for you.,1
+1019,136,sad,3,It is. I've been absorbed in work for the last 3 years and haven't gone out. So I guess everyone kinda moved on without me.,1,It is.,0
+1020,136,sad,3,It is. I've been absorbed in work for the last 3 years and haven't gone out. So I guess everyone kinda moved on without me.,2,I've been absorbed in work for the last 3 years and haven't gone out.,0
+1021,136,sad,3,It is. I've been absorbed in work for the last 3 years and haven't gone out. So I guess everyone kinda moved on without me.,3,So I guess everyone kinda moved on without me.,0
+1022,136,sad,4,Did he ditch you as well? And how did the girlfriend react?,1,Did he ditch you as well?,1
+1023,136,sad,4,Did he ditch you as well? And how did the girlfriend react?,2,And how did the girlfriend react?,1
+1024,137,surprised,1,For my 30th birthday_comma_ my family and friends got together and threw me a surprise birthday party.,1,For my 30th birthday_comma_ my family and friends got together and threw me a surprise birthday party.,0
+1025,137,surprised,2,Very nice! Where was the party?,1,Very nice!,1
+1026,137,surprised,2,Very nice! Where was the party?,2,Where was the party?,1
+1027,137,surprised,3,It was held at my parent's house in New Orleans.,1,It was held at my parent's house in New Orleans.,0
+1028,137,surprised,4,That's really sweet of them. Must've been a big party.,1,That's really sweet of them.,1
+1029,137,surprised,4,That's really sweet of them. Must've been a big party.,2,Must've been a big party.,1
+1030,137,surprised,5,Last year my family surprised me for my birthday with a party.,1,Last year my family surprised me for my birthday with a party.,0
+1031,138,sad,1,The vet told me my cat only has a few weeks left to live.,1,The vet told me my cat only has a few weeks left to live.,0
+1032,138,sad,2,Thats so terrible! :( Im really sorry... you should do something special everyday and make memories!,1,Thats so terrible!,1
+1033,138,sad,2,Thats so terrible! :( Im really sorry... you should do something special everyday and make memories!,2,:( Im really sorry... you should do something special everyday and make memories!,1
+1034,138,sad,3,I plan on it! He is really old so it is just his time to go and I get that but that doesnt make it any easier.,1,I plan on it!,0
+1035,138,sad,3,I plan on it! He is really old so it is just his time to go and I get that but that doesnt make it any easier.,2,He is really old so it is just his time to go and I get that but that doesnt make it any easier.,0
+1036,138,sad,4,It really doesnt.. i had to put my dog to sleep and it was extremely painful. I really hope that he can rest without pain and that you can feel better soon..,1,It really doesnt.. i had to put my dog to sleep and it was extremely painful.,1
+1037,138,sad,4,It really doesnt.. i had to put my dog to sleep and it was extremely painful. I really hope that he can rest without pain and that you can feel better soon..,2,I really hope that he can rest without pain and that you can feel better soon..,1
+1038,138,sad,5,Yeah It is just one of those things we all have to go through at some point.,1,Yeah It is just one of those things we all have to go through at some point.,0
+1039,139,faithful,1,A friend tried to get me to go out to a bar and hang out behind my spouses back...,1,A friend tried to get me to go out to a bar and hang out behind my spouses back...,0
+1040,139,faithful,2,Did you tell your spouse? I really think they should know.,1,Did you tell your spouse?,1
+1041,139,faithful,2,Did you tell your spouse? I really think they should know.,2,I really think they should know.,1
+1042,139,faithful,3,I havent yet_comma_ but I agree with you I should. I just dont want them to be upset with my friends.,1,I havent yet_comma_ but I agree with you I should.,0
+1043,139,faithful,3,I havent yet_comma_ but I agree with you I should. I just dont want them to be upset with my friends.,2,I just dont want them to be upset with my friends.,0
+1044,139,faithful,4,Some would consider it cheating if you did not tell them.,1,Some would consider it cheating if you did not tell them.,1
+1045,139,faithful,5,I would too. Deff need to.,1,I would too.,0
+1046,139,faithful,5,I would too. Deff need to.,2,Deff need to.,0
+1047,140,jealous,1,I hate being envious_comma_ but I've needed a car for months and my friend just bought a new one.,1,I hate being envious_comma_ but I've needed a car for months and my friend just bought a new one.,0
+1048,140,jealous,2,I know what you mean... but for now maybe you can just car pool around with your friend until you can get one!,1,I know what you mean... but for now maybe you can just car pool around with your friend until you can get one!,1
+1049,140,jealous,3,I guess so. It is a really nice car.,1,I guess so.,0
+1050,140,jealous,3,I guess so. It is a really nice car.,2,It is a really nice car.,0
+1051,140,jealous,4,So you can ride in style for free. Sounds fair to me.. until you get yours! :),1,So you can ride in style for free.,1
+1052,140,jealous,4,So you can ride in style for free. Sounds fair to me.. until you get yours! :),2,Sounds fair to me.. until you get yours!,1
+1053,140,jealous,4,So you can ride in style for free. Sounds fair to me.. until you get yours! :),3,:),1
+1054,140,jealous,5,lol. i like you!,1,lol.,0
+1055,140,jealous,5,lol. i like you!,2,i like you!,0
+1056,141,sad,1,I had to put my dog to sleep and it was super stressing! :(,1,I had to put my dog to sleep and it was super stressing!,0
+1057,141,sad,1,I had to put my dog to sleep and it was super stressing! :(,2,:(,0
+1058,141,sad,2,oh no. I'm sorry to hear that.,1,oh no.,1
+1059,141,sad,2,oh no. I'm sorry to hear that.,2,I'm sorry to hear that.,1
+1060,141,sad,3,Thanks_comma_ it always sucks when you have to say goodbye.. but shes better off now without pain. Do you have any pets?,1,Thanks_comma_ it always sucks when you have to say goodbye.. but shes better off now without pain.,0
+1061,141,sad,3,Thanks_comma_ it always sucks when you have to say goodbye.. but shes better off now without pain. Do you have any pets?,2,Do you have any pets?,0
+1062,141,sad,4,I don't. My apartment won't allow_comma_ but we are moving soon I hope to get a cat.,1,I don't.,1
+1063,141,sad,4,I don't. My apartment won't allow_comma_ but we are moving soon I hope to get a cat.,2,My apartment won't allow_comma_ but we are moving soon I hope to get a cat.,1
+1064,142,joyful,1,Went out with my friends last night after not seeing each other for a year. I was in another country for work and just got back.,1,Went out with my friends last night after not seeing each other for a year.,0
+1065,142,joyful,1,Went out with my friends last night after not seeing each other for a year. I was in another country for work and just got back.,2,I was in another country for work and just got back.,0
+1066,142,joyful,2,Oh_comma_ I bet that was fun and interesting visiting another country too.,1,Oh_comma_ I bet that was fun and interesting visiting another country too.,1
+1067,142,joyful,3,Yea. It was nice learning about the culture there_comma_ and people were really nice.,1,Yea.,0
+1068,142,joyful,3,Yea. It was nice learning about the culture there_comma_ and people were really nice.,2,It was nice learning about the culture there_comma_ and people were really nice.,0
+1069,142,joyful,4,I like to try different types of food from other places too. Then try to make them later on.,1,I like to try different types of food from other places too.,1
+1070,142,joyful,4,I like to try different types of food from other places too. Then try to make them later on.,2,Then try to make them later on.,1
+1071,143,hopeful,1,I think I found someone that's interested in my house finally . It's been on the market for over a year now.,1,I think I found someone that's interested in my house finally .,0
+1072,143,hopeful,1,I think I found someone that's interested in my house finally . It's been on the market for over a year now.,2,It's been on the market for over a year now.,0
+1073,143,hopeful,2,That can be stressful. I hope you get the sale. What will you do afterwards?,1,That can be stressful.,1
+1074,143,hopeful,2,That can be stressful. I hope you get the sale. What will you do afterwards?,2,I hope you get the sale.,1
+1075,143,hopeful,2,That can be stressful. I hope you get the sale. What will you do afterwards?,3,What will you do afterwards?,1
+1076,143,hopeful,3,I will move to a less rural area. It's very isolated and you have to have a vehicle for transportation.,1,I will move to a less rural area.,0
+1077,143,hopeful,3,I will move to a less rural area. It's very isolated and you have to have a vehicle for transportation.,2,It's very isolated and you have to have a vehicle for transportation.,0
+1078,143,hopeful,4,Do you prefer the isolation?,1,Do you prefer the isolation?,1
+1079,143,hopeful,5,No_comma_ that's why I'm selling actually.,1,No_comma_ that's why I'm selling actually.,0
+1080,144,excited,1,I'll get to go on vacation tomorrow. Been working really hard to get things clear up so I can enjoy myself.,1,I'll get to go on vacation tomorrow.,0
+1081,144,excited,1,I'll get to go on vacation tomorrow. Been working really hard to get things clear up so I can enjoy myself.,2,Been working really hard to get things clear up so I can enjoy myself.,0
+1082,144,excited,2,Awesome! Where are you headed to?,1,Awesome!,1
+1083,144,excited,2,Awesome! Where are you headed to?,2,Where are you headed to?,1
+1084,144,excited,3,Japan! Looking forward to the food.,1,Japan!,0
+1085,144,excited,3,Japan! Looking forward to the food.,2,Looking forward to the food.,0
+1086,144,excited,4,OMG!!!!! That sounds amazing! Its going to be epic. I hope you have a great time.,1,OMG!!!!!,1
+1087,144,excited,4,OMG!!!!! That sounds amazing! Its going to be epic. I hope you have a great time.,2,That sounds amazing!,1
+1088,144,excited,4,OMG!!!!! That sounds amazing! Its going to be epic. I hope you have a great time.,3,Its going to be epic.,1
+1089,144,excited,4,OMG!!!!! That sounds amazing! Its going to be epic. I hope you have a great time.,4,I hope you have a great time.,1
+1090,145,caring,1,Recently I offered to start working extra long hours just to help support my family more.,1,Recently I offered to start working extra long hours just to help support my family more.,0
+1091,145,caring,2,That's really considerate of you. Do they need your help a lot?,1,That's really considerate of you.,1
+1092,145,caring,2,That's really considerate of you. Do they need your help a lot?,2,Do they need your help a lot?,1
+1093,145,caring,3,Yeah we recently moved so we have gotten in quite debt while trying to sell the previous home! ugh,1,Yeah we recently moved so we have gotten in quite debt while trying to sell the previous home!,0
+1094,145,caring,3,Yeah we recently moved so we have gotten in quite debt while trying to sell the previous home! ugh,2,ugh,0
+1095,145,caring,4,Wow. Home selling can be tough. I hope that debt clears up real soon!,1,Wow.,1
+1096,145,caring,4,Wow. Home selling can be tough. I hope that debt clears up real soon!,2,Home selling can be tough.,1
+1097,145,caring,4,Wow. Home selling can be tough. I hope that debt clears up real soon!,3,I hope that debt clears up real soon!,1
+1098,146,lonely,1,Just moved here for work_comma_ and I don't know anyone. My coworkers have families of their own.,1,Just moved here for work_comma_ and I don't know anyone.,0
+1099,146,lonely,1,Just moved here for work_comma_ and I don't know anyone. My coworkers have families of their own.,2,My coworkers have families of their own.,0
+1100,146,lonely,2,That's sucks. You just have to warm up to people.,1,That's sucks.,1
+1101,146,lonely,2,That's sucks. You just have to warm up to people.,2,You just have to warm up to people.,1
+1102,146,lonely,3,Yea. It's going to take some time. It's just tough going through it right now.,1,Yea.,0
+1103,146,lonely,3,Yea. It's going to take some time. It's just tough going through it right now.,2,It's going to take some time.,0
+1104,146,lonely,3,Yea. It's going to take some time. It's just tough going through it right now.,3,It's just tough going through it right now.,0
+1105,146,lonely,4,I would be so scared to move to a new place. I commend you. It'll get better,1,I would be so scared to move to a new place.,1
+1106,146,lonely,4,I would be so scared to move to a new place. I commend you. It'll get better,2,I commend you.,1
+1107,146,lonely,4,I would be so scared to move to a new place. I commend you. It'll get better,3,It'll get better,1
+1108,147,embarrassed,1,I went to grocery store the other day and completely embarassed myself.,1,I went to grocery store the other day and completely embarassed myself.,0
+1109,147,embarrassed,2,What happened?!,1,What happened?,1
+1110,147,embarrassed,2,What happened?!,2,!,1
+1111,147,embarrassed,3,I filled an entire cart with food for a party and then realized I had forgot me purse at home.,1,I filled an entire cart with food for a party and then realized I had forgot me purse at home.,0
+1112,147,embarrassed,4,Oh no. Did you end up having to leave the cart?,1,Oh no.,1
+1113,147,embarrassed,4,Oh no. Did you end up having to leave the cart?,2,Did you end up having to leave the cart?,1
+1114,147,embarrassed,5,Yes. MY apartment is close by but It was still embarrassing,1,Yes.,0
+1115,147,embarrassed,5,Yes. MY apartment is close by but It was still embarrassing,2,MY apartment is close by but It was still embarrassing,0
+1116,148,anticipating,1,I cant wait to buy my christmas tree this year_comma_ lol.. funny right? ...but I am actually really excited.,1,I cant wait to buy my christmas tree this year_comma_ lol.. funny right?,0
+1117,148,anticipating,1,I cant wait to buy my christmas tree this year_comma_ lol.. funny right? ...but I am actually really excited.,2,...but I am actually really excited.,0
+1118,148,anticipating,2,Do you usually get a live one ?,1,Do you usually get a live one ?,1
+1119,148,anticipating,3,I thought about it_comma_ but dont think I could handle one. Do you have one?,1,I thought about it_comma_ but dont think I could handle one.,0
+1120,148,anticipating,3,I thought about it_comma_ but dont think I could handle one. Do you have one?,2,Do you have one?,0
+1121,148,anticipating,4,Just a small fake one. Some people get really into decorating. I don't really like it.,1,Just a small fake one.,1
+1122,148,anticipating,4,Just a small fake one. Some people get really into decorating. I don't really like it.,2,Some people get really into decorating.,1
+1123,148,anticipating,4,Just a small fake one. Some people get really into decorating. I don't really like it.,3,I don't really like it.,1
+1124,149,nostalgic,1,I visited my old home town recently and it has gone down hill so much.  A lot of the houses are run down and dilapidated. So sad.,1,I visited my old home town recently and it has gone down hill so much.,0
+1125,149,nostalgic,1,I visited my old home town recently and it has gone down hill so much.  A lot of the houses are run down and dilapidated. So sad.,2,A lot of the houses are run down and dilapidated.,0
+1126,149,nostalgic,1,I visited my old home town recently and it has gone down hill so much.  A lot of the houses are run down and dilapidated. So sad.,3,So sad.,0
+1127,149,nostalgic,2,That sucks..... always bad to see something like that. Did you atleast enjoy your trip?,1,That sucks..... always bad to see something like that.,1
+1128,149,nostalgic,2,That sucks..... always bad to see something like that. Did you atleast enjoy your trip?,2,Did you atleast enjoy your trip?,1
+1129,149,nostalgic,3,Yeah_comma_ I got to see a few people I knew . It was still fun,1,Yeah_comma_ I got to see a few people I knew .,0
+1130,149,nostalgic,3,Yeah_comma_ I got to see a few people I knew . It was still fun,2,It was still fun,0
+1131,149,nostalgic,4,Aw thats good! Im glad you still had a good time.,1,Aw thats good!,1
+1132,149,nostalgic,4,Aw thats good! Im glad you still had a good time.,2,Im glad you still had a good time.,1
+1133,149,nostalgic,5,Thank you . Hope you get a vacation this year too.,1,Thank you .,0
+1134,149,nostalgic,5,Thank you . Hope you get a vacation this year too.,2,Hope you get a vacation this year too.,0
+1135,150,surprised,1,So I came home from work yesterday and when I walked in the apartment Sally had all my friends and family inside.,1,So I came home from work yesterday and when I walked in the apartment Sally had all my friends and family inside.,0
+1136,150,surprised,2,surprise party or intervention,1,surprise party or intervention,1
+1137,150,surprised,3,It was a surprise party I turned 25. I honestly thought they all had forgotten.,1,It was a surprise party I turned 25.,0
+1138,150,surprised,3,It was a surprise party I turned 25. I honestly thought they all had forgotten.,2,I honestly thought they all had forgotten.,0
+1139,150,surprised,4,How sweet! I hope someone throws me one one day.,1,How sweet!,1
+1140,150,surprised,4,How sweet! I hope someone throws me one one day.,2,I hope someone throws me one one day.,1

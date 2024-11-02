@@ -1,4 +1,4 @@
-python pb_sentence_entropy.py \
+python pbft_scores.py \
     --data_path ../data/true/pb_gpt2-ft.csv \
     --out_path ./launch_test_output \
     --model_name "roberta-base" \

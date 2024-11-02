@@ -375,5 +375,6 @@ if __name__ == '__main__':
 
 
     dataframe = pd.read_csv(args.data_path)
+    dataframe['text'] = dataframe['sentence']
     out_file_name = compute_entropy(args, dataframe)
     logger.warning('Output: {}.csv'.format(out_file_name))

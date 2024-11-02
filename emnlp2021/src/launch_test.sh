@@ -1,5 +1,5 @@
 python3 pbft_scores.py \
-    --data_path <empdialpath> \
+    --data_path ../../conversation_corpora/mini_sent_empathetic_dialogues_sent_tokenized.csv \
     --out_path ./launch_test_output \
     --model_name "roberta" \
     --right_context 4 \

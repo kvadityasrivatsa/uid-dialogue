@@ -4,7 +4,7 @@ from transformers import AutoTokenizer, AutoModelForMaskedLM, TrainingArguments,
 import torch
 
 # Load and prepare the dataset
-df = pd.read_csv('../data/true/pb_gpt2-ft.csv')
+df = pd.read_csv('<path>.csv')
 sentences = df['sentence'].tolist()
 
 dataset = Dataset.from_dict({"sentence": sentences})
@@ -26,7 +26,7 @@ tokenized_datasets = dataset_dict.map(tokenize_function, batched=True, remove_co
 
 # Training arguments
 training_args = TrainingArguments(
-    output_dir="./roberta-pbft",
+    output_dir="./roberta-empdialft",
     overwrite_output_dir=True,
     num_train_epochs=30,
     per_device_train_batch_size=16,
@@ -58,7 +58,7 @@ trainer = Trainer(
 trainer.train()
 
 # Save the fine-tuned model
-trainer.save_model("./roberta-pbft_final")
+trainer.save_model("./roberta-empdialft_final")
 
 # Evaluate and print the perplexity
 eval_results = trainer.evaluate()

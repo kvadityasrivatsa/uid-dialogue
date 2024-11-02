@@ -5,9 +5,9 @@ import torch
 
 # Load and prepare the dataset
 df = pd.read_csv('../data/true/pb_gpt2-ft.csv')
-texts = df['text'].tolist()
+sentences = df['sentence'].tolist()
 
-dataset = Dataset.from_dict({"text": texts})
+dataset = Dataset.from_dict({"sentence": sentences})
 train_test_split = dataset.train_test_split(test_size=0.3, seed=42)
 
 dataset_dict = DatasetDict({
@@ -20,9 +20,9 @@ tokenizer = AutoTokenizer.from_pretrained("roberta-base")
 model = AutoModelForMaskedLM.from_pretrained("roberta-base")
 
 def tokenize_function(examples):
-    return tokenizer(examples["text"], truncation=True, padding="max_length", max_length=256)
+    return tokenizer(examples["sentence"], truncation=True, padding="max_length", max_length=256)
 
-tokenized_datasets = dataset_dict.map(tokenize_function, batched=True, remove_columns=["text"])
+tokenized_datasets = dataset_dict.map(tokenize_function, batched=True, remove_columns=["sentence"])
 
 # Training arguments
 training_args = TrainingArguments(

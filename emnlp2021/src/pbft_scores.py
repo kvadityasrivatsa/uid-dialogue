@@ -103,7 +103,7 @@ def compute_entropy(args, dataframe):
     # Load LM and tokenizer
     if args.model_name.lower() == 'roberta':
         tokenizer = RobertaTokenizer.from_pretrained("roberta-base")
-        lm = RobertaForMaskedLM.from_pretrained("roberta-base", return_dict=True)
+        lm = RobertaForMaskedLM.from_pretrained(args.model_path, return_dict=True)
     elif args.model_name.lower() == 'gpt2':
         # tokenizer = GPT2Tokenizer.from_pretrained(args.model_path)
         # lm = GPT2LMHeadModel.from_pretrained(args.model_path, return_dict=True)

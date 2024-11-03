@@ -4,7 +4,7 @@ from transformers import AutoTokenizer, AutoModelForMaskedLM, TrainingArguments,
 import torch
 
 # Load and prepare the dataset
-df = pd.read_csv('../../conversation_corpora/sent_tokenized_empathetic_dialogues.csv')
+df = pd.read_csv('../../conversation_corpora/mini_sent_empathetic_dialogues_sent_tokenized.csv')
 sentences = df['sentence'].tolist()
 
 dataset = Dataset.from_dict({"sentence": sentences})

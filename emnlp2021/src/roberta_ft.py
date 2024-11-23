@@ -1,10 +1,19 @@
+import sys
 import pandas as pd
 from datasets import Dataset, DatasetDict
 from transformers import AutoTokenizer, AutoModelForMaskedLM, TrainingArguments, Trainer, DataCollatorForLanguageModeling
 import torch
+import os
+
+if len(sys.argv) != 2:
+  print("Usage: python roberta_ft.py <dataset_path>")
+  sys.exit(1)
+
+dataset_path = sys.argv[1]
+dataset_name = os.path.splitext(os.path.basename(dataset_path))[0]
 
 # Load and prepare the dataset
-df = pd.read_csv('../../conversation_corpora/mini_sent_empathetic_dialogues_sent_tokenized.csv')
+df = pd.read_csv(dataset_path)
 sentences = df['sentence'].tolist()
 
 dataset = Dataset.from_dict({"sentence": sentences})
@@ -25,8 +34,13 @@ def tokenize_function(examples):
 tokenized_datasets = dataset_dict.map(tokenize_function, batched=True, remove_columns=["sentence"])
 
 # Training arguments
+output_dir = f"./roberta-{dataset_name}-finetuned"
+final_model_dir = f"./roberta-{dataset_name}-finetuned_final"
+os.makedirs(output_dir, exist_ok=True)
+os.makedirs(final_model_dir, exist_ok=True)
+
 training_args = TrainingArguments(
-    output_dir="./roberta-empdialft",
+    output_dir=output_dir,
     overwrite_output_dir=True,
     num_train_epochs=30,
     per_device_train_batch_size=16,
@@ -58,7 +72,7 @@ trainer = Trainer(
 trainer.train()
 
 # Save the fine-tuned model
-trainer.save_model("./roberta-empdialft_final")
+trainer.save_model(final_model_dir)
 
 # Evaluate and print the perplexity
 eval_results = trainer.evaluate()

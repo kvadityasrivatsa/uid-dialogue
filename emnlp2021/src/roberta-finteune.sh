@@ -12,7 +12,16 @@
 
 # Uncomment the following to get a log of memory usage; NOTE don't use this if you plan to run multiple processes in your job and you are placing "wait" at the end of the job file, else Slurm won't be able to tell when your job is completed!
 
-vmstat -S M {interval_secs} >> memory_usage_$SLURM_JOBID.log &
+if [ "$#" -ne 1 ]; then
+    echo "Usage: bash run_roberta_ft.sh <dataset_path>"
+    exit 1
+fi
+
+DATASET_PATH=$1
+
+DATASET_NAME=$(basename "$DATASET_PATH" .csv)
+
+vmstat -S M 5 >> memory_usage_$SLURM_JOBID.log &
 
 module load anaconda3-2024.02-1
 source /home/adebnath/anaconda3/bin/activate
@@ -20,5 +29,5 @@ eval "${conda shell.bash hook}"
 
 # Your commands here
 conda activate base
-python3 roberta_ft.py
+python3 roberta_ft.py "DATASET_PATH"
 conda deactivate

@@ -376,5 +376,12 @@ if __name__ == '__main__':
 
     dataframe = pd.read_csv(args.data_path)
     dataframe['text'] = dataframe['sentence']
+
+    from datasets import Dataset
+
+    dataset = Dataset.from_pandas(dataframe)
+    split = dataset.train_test_split(test_size=0.3, seed=42)
+    dataframe = split['test'].to_pandas()
+
     out_file_name = compute_entropy(args, dataframe)
     logger.warning('Output: {}.csv'.format(out_file_name))

@@ -52,7 +52,7 @@ training_args = Seq2SeqTrainingArguments(
     per_device_train_batch_size=16,
     per_device_eval_batch_size=16,
     eval_steps=400,
-    save_steps=800,
+    save_steps=4000,
     warmup_steps=500,
     learning_rate=5e-5,
     weight_decay=0.01,
@@ -60,6 +60,7 @@ training_args = Seq2SeqTrainingArguments(
     logging_steps=10,
     evaluation_strategy="steps",
     save_strategy="steps",
+    save_total_limit=1,
     load_best_model_at_end=True,
     predict_with_generate=True
 )
